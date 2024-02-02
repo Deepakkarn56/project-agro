@@ -188,6 +188,7 @@ export const reletedProductSlider = {
         slidesToShow: 2,
       },
     },
+    
     {
       breakpoint: 767,
       settings: {
