@@ -18,7 +18,7 @@ const MyApp = ({ Component, pageProps }) => {
         <title>Eros Agro</title>
         <link
           rel="shortcut icon"
-          href="assets/images/logo/Agrologo-removebg-preview.png"
+          href="assets/images/logo/main-logo.png"
           type="image/png"
         />
       </Head>
