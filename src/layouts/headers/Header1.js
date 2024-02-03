@@ -30,7 +30,7 @@ const Header1 = () => {
                   <Link href="/">
                     <a className="brand-logo">
                     <Image
-                        src="/assets/images/logo/main.png"
+                        src="/assets/images/logo/main-logo.png"
                         alt="Listing Image"
                         width={800}
                         height={700}
