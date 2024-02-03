@@ -29,10 +29,10 @@ const Spices = () => {
               </div>
             </div>
           </div>
-          <div className="row">
-            <div className="col-lg-4 col-md-6 col-sm-12">
+          <div className="row rows">
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div
-                className="listing-item listing-grid-one mb-45 wow fadeInUp"
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items"
                 data-wow-delay="10ms"
               >
                 <div className="listing-thumbnail">
@@ -77,9 +77,9 @@ const Spices = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 col-sm-12">
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div
-                className="listing-item listing-grid-one mb-45 wow fadeInUp"
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items"
                 data-wow-delay="20ms"
               >
                 <div className="listing-thumbnail">
@@ -124,9 +124,9 @@ const Spices = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 col-sm-12">
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div
-                className="listing-item listing-grid-one mb-45 wow fadeInUp"
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items"
                 data-wow-delay="30ms"
               >
                 <div className="listing-thumbnail">

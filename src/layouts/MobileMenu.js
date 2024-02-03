@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React, { useState } from "react";
 import { About, Blog, Contact, Home, Listing, Pages } from "./Menu";
+import Image from "next/image";
 
 const MobileMenu = () => {
   const [toggle, setToggle] = useState(false);
@@ -36,7 +37,7 @@ const MobileMenu = () => {
                   <Link href="/">
                     <a className="brand-logo">
                       <img
-                        src="assets/images/logo/Agrologo.png"
+                        src="assets/images/logo/main-logo.png"
                         alt="Brand Logo"
                       />
                     </a>
