@@ -155,10 +155,10 @@ const Index = () => {
               </div>
             </div>
           </div>
-          <div className="row">
-            <div className="col-lg-4 col-md-6 col-sm-12">
+          <div className="row rowss">
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div
-                className="listing-item listing-grid-one mb-45 wow fadeInUp"
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items"
                 data-wow-delay="10ms"
               >
                 <div className="listing-thumbnail">
@@ -171,7 +171,7 @@ const Index = () => {
                   <span className="featured-btn">Featured</span>
                   <div className="thumbnail-meta d-flex justify-content-between align-items-center"></div>
                 </div>
-                <div className="listing-content">
+                <div className="listing-content contents">
                   <h3 className="title">
                     <Link href="/listing-map">
                       <a>Whole Spices</a>
@@ -207,9 +207,9 @@ const Index = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 col-sm-12">
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div
-                className="listing-item listing-grid-one mb-45 wow fadeInUp"
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-item listing-items"
                 data-wow-delay="20ms"
               >
                 <div className="listing-thumbnail">
@@ -258,9 +258,9 @@ const Index = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 col-sm-12">
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div
-                className="listing-item listing-grid-one mb-45 wow fadeInUp"
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-item listing-items"
                 data-wow-delay="30ms"
               >
                 <div className="listing-thumbnail">
@@ -281,10 +281,7 @@ const Index = () => {
                   </h3>
 
                   <span className="price">
-                    Eros Agro is the exporter of fresh blended spices of best
-                    quality. They are packed in tamper proof container so that
-                    the freshness is totally sealed.A blend is a mixture of
-                    different spices, herbs, and other flavorings.
+                  Eros Agro is the exporter of fresh blended spices of best quality. They are packed in tamper proof container so that the freshness is totally sealed.A blend is a mixture of different spices, herbs, and other flavorings.
                   </span>
                   <span className="phone-meta">
                     <i className="ti-tablet"></i>
