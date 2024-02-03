@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from "react";
+import Image from "next/image";
 import { About, Blog, Contact, Home, Listing, Pages } from "../Menu";
 
 const Header1 = () => {
@@ -28,9 +29,11 @@ const Header1 = () => {
                 <div className="site-branding">
                   <Link href="/">
                     <a className="brand-logo">
-                      <img
-                        src="assets/images/logo/Agrologo-removebg-preview.png"
-                        alt="Brand Logo"
+                    <Image
+                        src="/assets/images/logo/Agrologo-removebg-preview copy.png"
+                        alt="Listing Image"
+                        width={800}
+                        height={700}
                       />
                     </a>
                   </Link>
