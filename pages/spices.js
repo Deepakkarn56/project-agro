@@ -53,11 +53,7 @@ const Spices = () => {
                   </h3>
 
                   <span className="price">
-                    Eros Agro is the exporter of superior quality of whole
-                    spices. We always strive to keep the natural taste and
-                    fragrance of product intact. Our whole spices packages are
-                    of best quality so that it lets you feel its richness as you
-                    open the pack.
+                  Eros Agro is the exporter of superior quality of whole spices. We always strive to keep the natural taste and fragrance of product intact. Our whole spices packages are of best quality so that it lets you feel its richness as you open the pack.
                   </span>
                   <span className="phone-meta">
                     <i className="ti-tablet"></i>
@@ -104,10 +100,7 @@ const Spices = () => {
                   </h3>
 
                   <span className="price">
-                    Eros Agro is the exporter of premium quality, Sortex,
-                    carefully macine cleaned natural sesame seeds. The packs of
-                    natural sesame seeds ensure good health and purity with
-                    itself. 
+                  Eros Agro is the exporter of premium quality, Sortex, carefully macine cleaned natural sesame seeds. The packs of natural sesame seeds ensure good health and purity with itself. 
                   </span>
                   <span className="phone-meta">
                     <i className="ti-tablet"></i>
@@ -154,9 +147,7 @@ const Spices = () => {
                   </h3>
 
                   <span className="price">
-                    Eros Agro is the exporter of fresh blended spices of best
-                    quality. They are packed in tamper proof container so that
-                    the freshness is totally sealed.
+                  Eros Agro is the exporter of fresh blended spices of best quality. They are packed in tamper proof container so that the freshness is totally sealed.
                   </span>
                   <span className="phone-meta">
                     <i className="ti-tablet"></i>
