@@ -36,7 +36,7 @@ const MobileMenu = () => {
                   <Link href="/">
                     <a className="brand-logo">
                       <img
-                        src="assets/images/logo/main-logo.png"
+                        src="assets/images/logo/Agrologo.png"
                         alt="Brand Logo"
                       />
                     </a>

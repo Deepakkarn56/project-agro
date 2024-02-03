@@ -29,7 +29,7 @@ const Header1 = () => {
                   <Link href="/">
                     <a className="brand-logo">
                       <img
-                        src="assets/images/logo/main-logo.png"
+                        src="assets/images/logo/Agrologo-removebg-preview.png"
                         alt="Brand Logo"
                       />
                     </a>

@@ -107,8 +107,7 @@ const Spices = () => {
                     Eros Agro is the exporter of premium quality, Sortex,
                     carefully macine cleaned natural sesame seeds. The packs of
                     natural sesame seeds ensure good health and purity with
-                    itself. We have made to satiate the goodness of sesame seeds
-                    at customer end.
+                    itself. 
                   </span>
                   <span className="phone-meta">
                     <i className="ti-tablet"></i>
@@ -157,8 +156,7 @@ const Spices = () => {
                   <span className="price">
                     Eros Agro is the exporter of fresh blended spices of best
                     quality. They are packed in tamper proof container so that
-                    the freshness is totally sealed.A blend is a mixture of
-                    different spices, herbs, and other flavorings.
+                    the freshness is totally sealed.
                   </span>
                   <span className="phone-meta">
                     <i className="ti-tablet"></i>
