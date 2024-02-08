@@ -1008,9 +1008,9 @@ button {
 }
 
 /* Header Area One */
-.header-area-one .header-top {
+/* .header-area-one .header-top {
   padding: 15px 0 17px;
-}
+} */
 .header-area-one .header-navigation {
   position: relative;
   margin-bottom: -50px;
@@ -1052,7 +1052,11 @@ button {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+          
   /* background-color: #ff344f; */
+}
+.brand-logo>span>img{
+  object-fit: contain !important;
 }
 .header-area-one .header-navigation .nav-menu {
   display: -webkit-box;

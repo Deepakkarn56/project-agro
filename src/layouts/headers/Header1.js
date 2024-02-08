@@ -32,8 +32,10 @@ const Header1 = () => {
                     <Image
                         src="/assets/images/logo/main-logo.png"
                         alt="Listing Image"
-                        width={800}
-                        height={700}
+                        width={200}
+                        height={120}
+                        style={{objectFit:"contain"}}
+
                       />
                     </a>
                   </Link>

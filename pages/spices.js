@@ -55,11 +55,11 @@ const Spices = () => {
                   <span className="price">
                   Eros Agro is the exporter of superior quality of whole spices. We always strive to keep the natural taste and fragrance of product intact. Our whole spices packages are of best quality so that it lets you feel its richness as you open the pack.
                   </span>
-                  <span className="phone-meta">
+                  {/* <span className="phone-meta">
                     <i className="ti-tablet"></i>
                     <a href="tel:+982653652-05"> +91 9914826464</a>
-                  </span>
-                  <div className="listing-meta">
+                  </span> */}
+                  {/* <div className="listing-meta">
                     <ul>
                       <li>
                         <span>
@@ -73,7 +73,7 @@ const Spices = () => {
                         </span>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -102,11 +102,11 @@ const Spices = () => {
                   <span className="price">
                   Eros Agro is the exporter of premium quality, Sortex, carefully macine cleaned natural sesame seeds. The packs of natural sesame seeds ensure good health and purity with itself. 
                   </span>
-                  <span className="phone-meta">
+                  {/* <span className="phone-meta">
                     <i className="ti-tablet"></i>
                     <a href="tel:+982653652-05"> +91 9914826464</a>
-                  </span>
-                  <div className="listing-meta">
+                  </span> */}
+                  {/* <div className="listing-meta">
                     <ul>
                       <li>
                         <span>
@@ -120,7 +120,7 @@ const Spices = () => {
                         </span>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -149,11 +149,11 @@ const Spices = () => {
                   <span className="price">
                   Eros Agro is the exporter of fresh blended spices of best quality. They are packed in tamper proof container so that the freshness is totally sealed.
                   </span>
-                  <span className="phone-meta">
+                  {/* <span className="phone-meta">
                     <i className="ti-tablet"></i>
                     <a href="tel:+982653652-05"> +91 9914826464</a>
-                  </span>
-                  <div className="listing-meta">
+                  </span> */}
+                  {/* <div className="listing-meta">
                     <ul>
                       <li>
                         <span>
@@ -167,7 +167,8 @@ const Spices = () => {
                         </span>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
+
                 </div>
               </div>
             </div>

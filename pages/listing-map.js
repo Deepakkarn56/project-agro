@@ -24,7 +24,7 @@ const ListingMap = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="10ms">
                 <div className="listing-thumbnail">
-                  <Image src="/assets/images/spices/ajwain.jpg" alt="Listing Image" width={800} height={700} />
+                  <Image src="/assets/images/spices/Ajwain Seeds.png" alt="Listing Image" width={800} height={700} />
                   <span className="featured-btn">Featured</span>
                 </div>
                 <div className="listing-content contents">
@@ -43,7 +43,7 @@ const ListingMap = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="20ms">
                 <div className="listing-thumbnail">
-                  <Image src="/assets/images/spices/black_pepper_powder.jpg" alt="Listing Image" width={800} height={700} />
+                  <Image src="/assets/images/spices/blacpepper.png" alt="Listing Image" width={800} height={700} />
                   <span className="featured-btn">Featured</span>
                 </div>
                 <div className="listing-content">
@@ -62,7 +62,7 @@ const ListingMap = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="30ms">
                 <div className="listing-thumbnail">
-                  <Image src="/assets/images/spices/cloves.jpg" alt="Listing Image" width={800} height={700} />
+                  <Image src="/assets/images/spices/cloves.png" alt="Listing Image" width={800} height={700} />
                   <span className="featured-btn">Featured</span>
                 </div>
                 <div className="listing-content">
@@ -134,6 +134,8 @@ const ListingMap = () => {
                 </div>
               </div>
             </div>
+            {/* card 7 */}
+           
           </div>
         </div>
       </section>

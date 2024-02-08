@@ -14,44 +14,31 @@ const ListingList = () => {
   return (
     <Layout>
       <PageBanner title={"Blended Spices"} />
-      <section className="listing-list-area pt-120 pb-90">
+      <section className="listing-grid-area pt-50 ">
         <div className="container">
-          <div className="row">
-            <div className="col-lg-4"></div>
+          <div className="row justify-content-center">
             <div className="col-lg-8">
-              <div className="listing-search-filter mb-40">
-                <div className="row">
-                  <div className="col-md-8">
-                    <div className="filter-left d-flex align-items-center"></div>
-                  </div>
-                  <div className="col-md-4">
-                    <div className="filter-right">
-                      
-                    </div>
-                  </div>
-                </div>
+              <div className="section-title text-center mb-75 wow fadeInUp">
+                <h2>Blended Spices</h2>
               </div>
-              <div className="listing-list-wrapper">
-                <div className="listing-item listing-list-item-two mb-60 wow fadeInUp">
-                  <div className="listing-thumbnail">
-                    <Image
-                      src="/assets/images/spices/black_pepper_powder.jpg"
-                      alt="listing Image"
-                      width={800}
-                      height={700}
-                    />
-                    <div className="thumbnail-meta d-flex justify-content-between align-items-center">
-                      <div className="meta-icon-title d-flex align-items-center"></div>
-                    </div>
-                  </div>
-                  <div className="listing-content">
-                    <h3 className="title">
-                      <Link href="/blackPepper">
-                        <a>Black Pepper Powder</a>
-                      </Link>
-                    </h3>
-                    <span>
-                      We are the exporter of India’s own harvesting product- the
+            </div>
+          </div>
+          <div className="row rowss">
+            {/* Existing Card 1 */}
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
+              <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="10ms">
+                <div className="listing-thumbnail">
+                  <Image src="/assets/images/spices/black_pepper_powder.jpg" alt="Listing Image" width={800} height={700} />
+                  <span className="featured-btn">Featured</span>
+                </div>
+                <div className="listing-content contents">
+                  <h3 className="title">
+                    <Link href="/listing-map">
+                      <a>Black Pepper Powder</a>
+                    </Link>
+                  </h3>
+                  <span className="price">
+                  We are the exporter of India’s own harvesting product- the
                       best quality of Black Pepper powder. Invite the wellness
                       pack. Black pepper powder is known widely today globally
                       for its pungency, distinct aroma and as a HEAT ingredient.
@@ -59,143 +46,134 @@ const ListingList = () => {
                       flavor, superb aroma and health benefits. Black pepper
                       powder is used in cooking and garnishing in cuisines
                       around the world.
-                    </span>
-                  </div>
+                  </span>
                 </div>
-                <div className="listing-item listing-list-item-two mb-60 wow fadeInUp">
-                  <div className="listing-thumbnail">
-                    <Image
-                      src="/assets/images/spices/chilli_flakes.jpg"
-                      alt="listing Image"
-                      width={800}
-                      height={700}
-                    />
-                    <div className="thumbnail-meta d-flex justify-content-between align-items-center"></div>
-                  </div>
-                  <div className="listing-content">
-                    <h3 className="title">
-                      <Link href="/chilliFlakes">
-                        <a>Chilli Flakes</a>
-                      </Link>
-                    </h3>
-                    <span>
-                      We are the exporter of fresh Indian red chilli flakes of
+              </div>
+            </div>
+            {/* Existing Card 2 */}
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
+              <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="20ms">
+                <div className="listing-thumbnail">
+                  <Image src="/assets/images/spices/chilli_flakes.jpg" alt="Listing Image" width={800} height={700} />
+                  <span className="featured-btn">Featured</span>
+                </div>
+                <div className="listing-content">
+                  <h3 className="title">
+                    <Link href="/listing-grid">
+                      <a>Chilli Flakes</a>
+                    </Link>
+                  </h3>
+                  <span className="price">
+                  We are the exporter of fresh Indian red chilli flakes of
                       best quality. They are packed in tamper proof container so
                       that the freshness is totally sealed. Its also known as
                       “PAPRIKA”, ITS prepared from mild red chili pepper, its
                       flavor ranges from Hot to Mild, Paprika is equally valued
                       for its taste and its bright red colour, derived from
                       capsanthin.
-                    </span>
-                  </div>
+                  </span>
                 </div>
-                <div className="listing-item listing-list-item-two mb-60 wow fadeInUp">
-                  <div className="listing-thumbnail">
-                    <Image
-                      src="/assets/images/spices/cumin_powder.jpeg"
-                      alt="listing Image"
-                      width={800}
-                      height={700}
-                    />
-                    <div className="thumbnail-meta d-flex justify-content-between align-items-center"></div>
-                  </div>
-                  <div className="listing-content">
-                    <h3 className="title">
-                      <Link href="/cumin">
-                        <a>Cumin Coriander Powder</a>
-                      </Link>
-                    </h3>
-                    <span>
-                      We are the exporter of Cumin-Coriander powder. It serves
+              </div>
+            </div>
+            {/* Existing Card 3 */}
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
+              <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="30ms">
+                <div className="listing-thumbnail">
+                  <Image src="/assets/images/spices/cumin_powder.jpeg" alt="Listing Image" width={800} height={700} />
+                  <span className="featured-btn">Featured</span>
+                </div>
+                <div className="listing-content">
+                  <h3 className="title">
+                    <Link href="/listing-list">
+                      <a>Cumin Coriander Powder</a>
+                    </Link>
+                  </h3>
+                  <span className="price">
+                  We are the exporter of Cumin-Coriander powder. It serves
                       one of the richly blended powders with freshness and
                       purity. Cumin-Coriander powder is yet another choice for
                       Indian cuisines. In fact it is mandatory Ingredient to
                       prepare flavorful and richly aromatic delicacies.
-                    </span>
-                  </div>
+                  </span>
                 </div>
-                <div className="listing-item listing-list-item-two mb-60 wow fadeInUp">
-                  <div className="listing-thumbnail">
-                    <Image
-                      src="/assets/images/spices/curry_powder.jpg"
-                      alt="listing Image"
-                      width={800}
-                      height={700}
-                    />
-                    <div className="thumbnail-meta d-flex justify-content-between align-items-center"></div>
-                  </div>
-                  <div className="listing-content">
-                    <h3 className="title">
-                      <Link href="/currypowder">
-                        <a>Curry Powder/Garam Masala</a>
-                      </Link>
-                    </h3>
-                    <span>
-                      Curry powder is a blend of ground spices used to flavor
+              </div>
+            </div>
+            {/* New Card 4 (Duplicate of Existing Card) */}
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
+              <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="40ms">
+                <div className="listing-thumbnail">
+                  <Image src="/assets/images/spices/currypowder.png" alt="Listing Image" width={800} height={700} />
+                  <span className="featured-btn">Featured</span>
+                </div>
+                <div className="listing-content">
+                  <h3 className="title">
+                    <Link href="/new-listing">
+                      <a>Curry Powder/Garam Masala</a>
+                    </Link>
+                  </h3>
+                  <span className="price">
+                  Curry powder is a blend of ground spices used to flavor
                       curry dishes. It typically includes a mix of Indian and
                       Southeast Asian spices such as turmeric, cumin, coriander,
                       and cardamom, but can vary depending on the specific
                       recipe or brand.
-                    </span>
-                  </div>
+
+                  </span>
                 </div>
-                <div className="listing-item listing-list-item-two mb-60 wow fadeInUp">
-                  <div className="listing-thumbnail">
-                    <Image
-                      src="/assets/images/spices/red_chilli.jpg"
-                      alt="listing Image"
-                      width={800}
-                      height={700}
-                    />
-                    <div className="thumbnail-meta d-flex justify-content-between align-items-center"></div>
-                  </div>
-                  <div className="listing-content">
-                    <h3 className="title">
-                      <Link href="/redchilli">
-                        <a>Red Chilli Powder</a>
-                      </Link>
-                    </h3>
-                    <span>
-                      Red Chilli powder is commonly known as “lal mirch powder”
+              </div>
+            </div>
+            {/* New Card 5 (Duplicate of Existing Card) */}
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
+              <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="50ms">
+                <div className="listing-thumbnail">
+                  <Image src="/assets/images/spices/red_chilli.jpg" alt="Listing Image" width={800} height={700} />
+                  <span className="featured-btn">Featured</span>
+                </div>
+                <div className="listing-content">
+                  <h3 className="title">
+                    <Link href="/another-new-listing">
+                      <a>Red Chilli Powder</a>
+                    </Link>
+                  </h3>
+                  <span className="price">
+                  Red Chilli powder is commonly known as “lal mirch powder”
                       and it is one of the key ingredients in the preparation of
                       Indian cuisines. It is one of the main members of spice
                       catalogue because Indians dishes are said to be incomplete
                       without the flavor of Red chilli powder.
-                    </span>
-                  </div>
+                  </span>
                 </div>
-                <div className="listing-item listing-list-item-two mb-60 wow fadeInUp">
-                  <div className="listing-thumbnail">
-                    <Image
-                      src="/assets/images/spices/turmeric.jpg"
-                      alt="listing Image"
-                      width={800}
-                      height={700}
-                    />
-                    <div className="thumbnail-meta d-flex justify-content-between align-items-center"></div>
-                  </div>
-                  <div className="listing-content">
-                    <h3 className="title">
-                      <Link href="/turmeric">
-                        <a>Turmeric Powder</a>
-                      </Link>
-                    </h3>
-                    <span>
-                      We are the exporter of selectively chosen turmeric root
+              </div>
+            </div>
+            {/* card 6 */}
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
+              <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="50ms">
+                <div className="listing-thumbnail">
+                  <Image src="/assets/images/spices/turmeric.jpg" alt="Listing Image" width={800} height={700} />
+                  <span className="featured-btn">Featured</span>
+                </div>
+                <div className="listing-content">
+                  <h3 className="title">
+                    <Link href="/another-new-listing">
+                      <a>Turmeric Powder</a>
+                    </Link>
+                  </h3>
+                  <span className="price">
+                  We are the exporter of selectively chosen turmeric root
                       Fingers that can be blended with technology and
                       machineries to make finest turmeric powder. We strive to
                       keep the natural aroma and purity as it is when doing the
                       process. It is packed carefully to maintain its rich
                       properties.
-                    </span>
-                  </div>
+
+                  </span>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-    </Layout>
+         </Layout>
   );
 };
 export default ListingList;

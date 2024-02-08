@@ -2,7 +2,7 @@ import Link from "next/link";
 import React, { useState } from "react";
 import Slider from "react-slick";
 import dynamic from "next/dynamic";
-import Image from 'next/image';
+import Image from "next/image";
 
 const Counter = dynamic(() => import("../src/components/Counter"), {
   ssr: false,
@@ -31,8 +31,8 @@ const Index = () => {
                   <h2 className="wow fadeInUp mb-0" data-wow-delay="20ms">
                     Welcome to Eros Agro!
                   </h2>
-                  <h4 className="wow fadeInDown p-3" >
-                    We are a leading spice export 
+                  <h4 className="wow fadeInDown p-3">
+                    We are a leading spice export
                     <h4>company dedicated to bringing</h4>
                     you the finest quality spices from around the world.
                   </h4>
@@ -186,25 +186,6 @@ const Index = () => {
                     of best quality so that it lets you feel its richness as you
                     open the pack.
                   </span>
-                  <span className="phone-meta">
-                    <i className="ti-tablet"></i>
-                    <a href="tel:+982653652-05"> +91 9914826464</a>
-                  </span>
-                  <div className="listing-meta">
-                    <ul>
-                      <li>
-                        <span>
-                          <i className="ti-user"></i>Eros_Spices
-                        </span>
-                      </li>
-                      <li>
-                        <span>
-                          <i className="ti-heart"></i>
-                          <a href="#">Save</a>
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>
@@ -237,25 +218,6 @@ const Index = () => {
                     itself. We have made to satiate the goodness of sesame seeds
                     at customer end.
                   </span>
-                  <span className="phone-meta">
-                    <i className="ti-tablet"></i>
-                    <a href="tel:+982653652-05"> +91 9914826464</a>
-                  </span>
-                  <div className="listing-meta">
-                    <ul>
-                      <li>
-                        <span>
-                          <i className="ti-user"></i>Eros_Spices
-                        </span>
-                      </li>
-                      <li>
-                        <span>
-                          <i className="ti-heart"></i>
-                          <a href="#">Save</a>
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>
@@ -282,27 +244,11 @@ const Index = () => {
                   </h3>
 
                   <span className="price">
-                  Eros Agro is the exporter of fresh blended spices of best quality. They are packed in tamper proof container so that the freshness is totally sealed.A blend is a mixture of different spices, herbs, and other flavorings.
+                    Eros Agro is the exporter of fresh blended spices of best
+                    quality. They are packed in tamper proof container so that
+                    the freshness is totally sealed.A blend is a mixture of
+                    different spices, herbs, and other flavorings.
                   </span>
-                  <span className="phone-meta">
-                    <i className="ti-tablet"></i>
-                    <a href="tel:+982653652-05"> +91 9914826464</a>
-                  </span>
-                  <div className="listing-meta">
-                    <ul>
-                      <li>
-                        <span>
-                          <i className="ti-user"></i>Eros_Spices
-                        </span>
-                      </li>
-                      <li>
-                        <span>
-                          <i className="ti-heart"></i>
-                          <a href="#">Save</a>
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>
