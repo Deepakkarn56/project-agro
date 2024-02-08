@@ -14,7 +14,7 @@ const AddListing = () => {
       <PageBanner title={"Request Product"} pageName={"Listing"} />
       <section className="fioxen-add-listing pt-120 pb-120">
         <div className="container">
-          {/* <form id="googleForm">
+          <form id="googleForm">
             <div className="row justify-content-center">
               <div className="col-lg-8">
                 <div className="add-listing-form general-listing-form mb-60 wow fadeInUp">
@@ -34,7 +34,7 @@ const AddListing = () => {
                 </div>
               </div>
             </div>
-          </form> */}
+          </form>
         </div>
       </section>
     </Layout>

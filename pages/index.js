@@ -28,13 +28,14 @@ const Index = () => {
             <div className="row">
               <div className="col-lg-8">
                 <div className="hero-content">
-                  <h1 className="wow fadeInUp" data-wow-delay="30ms">
+                  <h2 className="wow fadeInUp mb-0" data-wow-delay="20ms">
                     Welcome to Eros Agro!
-                  </h1>
-                  <h3 className="wow fadeInDown">
-                    We are a leading spice export company dedicated to bringing
+                  </h2>
+                  <h4 className="wow fadeInDown p-3" >
+                    We are a leading spice export 
+                    <h4>company dedicated to bringing</h4>
                     you the finest quality spices from around the world.
-                  </h3>
+                  </h4>
 
                   <p className="tags">
                     <span>Popular Categories:</span>

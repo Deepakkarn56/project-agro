@@ -1286,7 +1286,7 @@ button {
 .hero-wrapper-one:after {
   width: 43.5%;
   right: 0;
-  background: url(../images/spices/back.jpeg) no-repeat center center;
+  background: url(../images/spices/spices.jpg) no-repeat center center;
   background-size: cover;
 }
 @media (max-width: 991px) {
@@ -1483,7 +1483,7 @@ button {
 }
 .breadcrumbs-wrapper:after {
   right: 0;
-  background: url(../images/bg/newsletter-bg-1.jpg) no-repeat center;
+  background: url(../images/bg/hurb.png) no-repeat center;
   background-size: cover;
 }
 @media (max-width: 991px) {
@@ -2733,6 +2733,8 @@ ul.ratings li {
   border-color: transparent;
 }
 
+/* MAIN PAGE OVERWRITE CSS */
+
 /*=========================
     07. Listing CSS
 ==========================*/
@@ -2940,6 +2942,8 @@ h3.title {
   color: #0d0d0d;
   margin-bottom: 15px;
 }
+/* FORM CSS */
+
 /* cards css index */
 
 .rowss {
@@ -2979,7 +2983,7 @@ h3.title {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; 
+  /* justify-content: space-between;  */
 }
 
 /* Responsive adjustments */
