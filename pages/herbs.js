@@ -126,7 +126,7 @@ const Herbs = () => {
                     </Link>
                   </h3>
                   <span className="price">
-                  Eros Agro presents Quinoa seeds, scientifically known as Chenopodium quinoa, hailing from the esteemed Amaranthaceae Family. With origins in Peru, Bolivia, and India, these tiny seeds come in a spectrum of colors, from white to red or black. Pronounced as 'keen-wah,' quinoa seeds are derived from the herbaceous plant cultivated for its nutrient-rich seeds.
+                  Eros Agro presents Quinoa seeds, scientifically known as Chenopodium quinoa, hailing from the esteemed Amaranthaceae Family. With origins in Peru, Bolivia, and India, these tiny seeds come in a spectrum of colors, from white to red or black. Pronounced as keen-wah, quinoa seeds are derived from the herbaceous plant cultivated for its nutrient-rich seeds.
                   </span>
                 </div>
               </div>
