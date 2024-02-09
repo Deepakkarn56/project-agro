@@ -147,10 +147,10 @@ const Index = () => {
       </section>
       {/* <!--====== End Category Section ======--> */}
       {/* <!--====== Start Listing Section ======--> */}
-      <section className="listing-grid-area pt-115 pb-75">
+      <section className="listing-grid-area">
         <div className="container">
           <div className="row justify-content-center">
-            <div className="col-lg-8">
+            <div className="col-lg-8 mt-4">
               <div className="section-title text-center mb-75 wow fadeInUp">
                 <h2>Spices</h2>
               </div>
@@ -258,11 +258,11 @@ const Index = () => {
 
       {/* <!--====== End Features Section ======--> */}
       {/* <!--====== Start Place Section ======--> */}
-      <section className="place-area pt-115 pb-110">
-        <div className="container-fluid place-container">
+      <section className="place-area mb-30">
+        <div className="container-fluid place-container p-0">
           <div className="row justify-content-center">
-            <div className="col-lg-8">
-              <div className="section-title text-center mb-60 wow fadeInUp">
+            <div className="col-lg-8 ">
+              <div className="section-title text-center mb-4 wow fadeInUp">
                 <h2>New Products</h2>
               </div>
             </div>
@@ -424,7 +424,7 @@ const Index = () => {
 
       {/* <!--====== End Client Section ======--> */}
       {/* <!--====== Start Blog Section ======--> */}
-      <section className="blog-area pt-115 pb-120">
+      <section className="blog-area pt-50 pb-50">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-6">
