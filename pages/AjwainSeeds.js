@@ -34,28 +34,16 @@ const AjwainSeeds = () => {
             </p>
           </div>
         </div>
-        <div
-          style={{
-            position: "relative",
-            overflow: "hidden",
-            paddingTop: "56.25%",
-          }}
-        >
-          <iframe
-            title="Google Form"
-            src="https://docs.google.com/forms/d/1VxfZTiu-QToQIjLLGYlbBBfVCxk2YEv2m5hMBYPZy_Q/viewform?embedded=true"
-            style={{
-              position: "absolute",
-              top: 0,
-              left: 0,
-              width: "100%",
-              height: "100%",
-              border: 0,
-            }}
-            allowFullScreen={true}
-            loading="lazy"
-          ></iframe>
-        </div>
+        <div style={{ position: "relative", overflow: "hidden", width: "100vw", height: "100vh" }}>
+  <iframe
+    title="Google Form"
+    src="https://docs.google.com/forms/d/1VxfZTiu-QToQIjLLGYlbBBfVCxk2YEv2m5hMBYPZy_Q/viewform?embedded=true"
+    style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", border: 0 }}
+    allowFullScreen={true}
+    loading="lazy"
+  ></iframe>
+</div>
+
       </div>
     </Layout>
   );
