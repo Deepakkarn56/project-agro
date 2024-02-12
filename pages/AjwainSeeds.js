@@ -12,7 +12,7 @@ const AjwainSeeds = () => {
           <div className="col-lg-12">
             <h1 className="mb-4">The Wonders of Ajwain Seeds</h1>
             <p className="mb-3">
-              Ajwain, also known as Carom Seeds, has been a part of traditional Indian medicine for ages. With its unique flavor, it's not only a staple in the kitchen but also famed for its medicinal properties.
+              Ajwain  also known as Carom Seeds has been a part of traditional Indian medicine for ages. With its unique flavor, its not only a staple in the kitchen but also famed for its medicinal properties.
             </p>
             <h2 className="mb-3">Health Benefits of Ajwain Seeds</h2>
             <ul className="mb-4">
