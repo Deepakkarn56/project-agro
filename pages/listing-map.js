@@ -29,7 +29,7 @@ const ListingMap = () => {
                 </div>
                 <div className="listing-content contents">
                   <h3 className="title">
-                    <Link href="/listing-map">
+                    <Link href="/AjwainSeeds">
                       <a>Ajwain Seeds</a>
                     </Link>
                   </h3>
