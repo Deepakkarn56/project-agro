@@ -107,19 +107,30 @@ const Footer = () => {
                   <h4 className="widget-title">Navigation Menu</h4>
                   <ul className="categories-link">
                     <li>
-                      <a href="#">Home</a>
+                      <Link href="/">
+                        <a>Home</a>
+                      </Link>
                     </li>
                     <li>
-                      <a href="#">About Us</a>
+                      <Link href="/about">
+                        <a>About Us</a>
+                      </Link>
+                    </li>
+                    {/* <li>
+                      <Link href="/our products">
+                      <a>Our Products</a>
+                      </Link>
+                    
+                    </li> */}
+                    <li>
+                      <Link href="/blog">
+                        <a>Blogs</a>
+                      </Link>
                     </li>
                     <li>
-                      <a href="#">Our Products</a>
-                    </li>
-                    <li>
-                      <a href="#">Blogs</a>
-                    </li>
-                    <li>
-                      <a href="#">Contact Us</a>
+                      <Link href="/contact">
+                        <a href="#">Contact Us</a>
+                      </Link>
                     </li>
                   </ul>
                 </div>
@@ -145,8 +156,7 @@ const Footer = () => {
                       <button
                         className="main-btn"
                         onClick={() =>
-                          (window.location.href =
-                            "https://wa.me/+919914826464")
+                          (window.location.href = "https://wa.me/+919914826464")
                         }
                       >
                         Message
