@@ -8,8 +8,8 @@ const PreLoader = () => {
         <Image
           src="/assets/images/loader.png"
           alt="loader"
-          width={800}
-          height={700}
+          width={100}
+          height={100}
         />
       </div>
     </div>
