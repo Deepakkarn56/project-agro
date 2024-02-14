@@ -2987,8 +2987,53 @@ h3.title {
   color: white;
 
 }
+/* start */
+.notes{
+  font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+.seactions {
+  background: #009688;
+  color: #ffffff;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: #027368 3px solid;
+}
 
+.headings {
+  text-align: center;
+  margin: 0;
+  padding-bottom: 30px;
+}
 
+section {
+  padding: 20px;
+  margin: 0 10px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+/* 
+.heading-titles {
+  color:;
+} */
+
+.footers {
+  background:black;
+  color:white;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+ /* end */
 .contents {
   flex: 1;
   display: flex;
