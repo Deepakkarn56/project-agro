@@ -23,9 +23,9 @@ const BlackPepper = () => {
             <h3>Botanical Brilliance</h3>
             <p>
               Eros Agro takes pride in offering Black Pepper powder of the
-              highest quality. Scientifically known as Piper nigrum, this spice
-              is renowned for its excellent taste, relishing flavor, superb
-              aroma and rich history. Sourced from India's harvests, our Black
+              highest quality. Scientifically known as Piper nigrum this spice
+              is renowned for its excellent taste relishing flavor superb
+              aroma and rich history. Sourced from India's harvests our Black
               Pepper powder stands out for its authenticity and premium quality.
             </p>
             <h3>Culinary Versatility</h3>
