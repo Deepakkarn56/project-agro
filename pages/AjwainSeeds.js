@@ -8,9 +8,8 @@ const AjwainSeeds = () => {
   return (
     <Layout>
       <PageBanner title={"AjwainSeeds"} />
-        
+
       <section className="bodys">
-      
         <div className="containers">
           <div className="main-contents">
             <div className="post-thumbnail">
@@ -38,10 +37,14 @@ const AjwainSeeds = () => {
             </p>
             <h3>Health Benefits</h3>
             <p>
-              Known for their digestive properties, Ajwain seeds are often
-              utilised to address indigestion issues and enhance overall
-              digestive health.
+              Beyond their culinary applications, Ajwain seeds contribute to
+              health and well-being. Known for their digestive properties, they
+              are often utilised to address indigestion issues and enhance
+              overall digestive health.
             </p>
+            <h3>Contact us Today</h3>
+            <p>For premium quality Ajwain Seeds that bring the essence of spice culture to your culinary creations, choose Eros Agro. Contact us at +91 9914826464, and let our superior Ajwain Seeds become an essential part of your spice collection. Spice up your dishes and embrace the richness of flavour with Eros Agro!
+</p>
           </div>
           <div className="sidebars">
             <div
@@ -49,7 +52,7 @@ const AjwainSeeds = () => {
                 position: "relative",
                 overflow: "hidden",
                 width: "100%", // Keep the width responsive
-                height: "500px", // Increase the height to provide more space for the form
+                height: "800px", // Increase the height to provide more space for the form
               }}
             >
               <iframe
