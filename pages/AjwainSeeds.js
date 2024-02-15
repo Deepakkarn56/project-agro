@@ -9,8 +9,8 @@ const AjwainSeeds = () => {
     <Layout>
       <PageBanner title={"AjwainSeeds"} />
       <section className="bodys">
-        <div class="containers">
-          <div class="main-contents">
+        <div className="containers">
+          <div className="main-contents">
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/ajwain.jpg"
@@ -29,7 +29,7 @@ const AjwainSeeds = () => {
           
                 
           </div>
-          <div class="sidebars">
+          <div className="sidebars">
             <h2>AjwainSeeds</h2>
             <p className="p-2">
             Scientifically known as Trachyspermum ammi and belonging to the Apieaceae family, Ajwain Seeds have achieved global fame as a spice hub. These tiny seeds, with their brownish colour, have held a place of utmost importance in spice culture since ages.
