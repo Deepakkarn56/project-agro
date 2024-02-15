@@ -75,22 +75,22 @@ const Footer = () => {
                       <div className="post-title-date">
                         <span className="posted-on">
                           <a href="+91 9914826464">
-                            <i className="ti-headphone">
-                              <h6 className="title">+91 9914826464</h6>
+                            <i className="">
+                              <h6 className="title ti-headphone"> +91 9914826464</h6>
                             </i>
                           </a>
                         </span>
-                        <span>
+                        <span className="posted-on">
                           <a href="export@erosagro.com">
-                            <i className="ti-email">
-                              <h6 className="title">export@erosagro.com</h6>
+                            <i className="">
+                              <h6 className="title ti-email"> export@erosagro.com</h6>
                             </i>
                           </a>
                         </span>
                         <span>
                           <a href="www.erosagro.com">
-                            <i className="ti-link">
-                              <h6 className="title">www.erosagro.com</h6>
+                            <i className="">
+                              <h6 className="title ti-link"> www.erosagro.com</h6>
                             </i>
                           </a>
                         </span>
