@@ -72,8 +72,8 @@ const BlackPepper = () => {
                   position: "absolute",
                   top: 0,
                   left: 0,
-                  width: "100%", // Make the iframe fill the container width
-                  height: "100%", // Make the iframe fill the container height
+                  width: "100%", 
+                  height: "100%", 
                   border: 0,
                 }}
                 allowFullScreen={true}

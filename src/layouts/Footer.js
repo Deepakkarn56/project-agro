@@ -27,22 +27,22 @@ const Footer = () => {
                     <h4>Follow Us</h4>
                     <ul className="social-link">
                       <li>
-                        <a href="#">
-                          <i className="ti-facebook"></i>
+                        <a href="mailto:erosagro64@gmail.com">
+                          <i className="ti-email"></i>
                         </a>
                       </li>
                       <li>
-                        <a href="#">
+                        <a href="https://www.linkedin.com/in/eros-agro-1b71872b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByEYKYdkLQ46SwBfnjpJhrg%3D%3D">
+                          <i class="ti-linkedin"></i>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://twitter.com/Erosagro">
                           <i className="ti-twitter-alt"></i>
                         </a>
                       </li>
                       <li>
-                        <a href="#">
-                          <i className="ti-pinterest"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#">
+                        <a href="https://www.instagram.com/erosagro/?next=%2F&hl=en-gb">
                           <i className="ti-instagram"></i>
                         </a>
                       </li>
@@ -76,21 +76,30 @@ const Footer = () => {
                         <span className="posted-on">
                           <a href="+91 9914826464">
                             <i className="">
-                              <h6 className="title ti-headphone"> +91 9914826464</h6>
+                              <h6 className="title ti-headphone">
+                                {" "}
+                                +91 9914826464
+                              </h6>
                             </i>
                           </a>
                         </span>
                         <span className="posted-on">
                           <a href="export@erosagro.com">
                             <i className="">
-                              <h6 className="title ti-email"> export@erosagro.com</h6>
+                              <h6 className="title ti-email">
+                                {" "}
+                                export@erosagro.com
+                              </h6>
                             </i>
                           </a>
                         </span>
                         <span>
                           <a href="www.erosagro.com">
                             <i className="">
-                              <h6 className="title ti-link"> www.erosagro.com</h6>
+                              <h6 className="title ti-link">
+                                {" "}
+                                www.erosagro.com
+                              </h6>
                             </i>
                           </a>
                         </span>

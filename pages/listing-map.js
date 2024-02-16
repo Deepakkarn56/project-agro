@@ -67,7 +67,7 @@ const ListingMap = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/Clovess">
                       <a>Cloves</a>
                     </Link>
                   </h3>
@@ -86,7 +86,7 @@ const ListingMap = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/new-listing">
+                    <Link href="/CorianderSeeds">
                       <a>Coriander Seeds</a>
                     </Link>
                   </h3>
@@ -105,7 +105,7 @@ const ListingMap = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/another-new-listing">
+                    <Link href="/CuminSeeds">
                       <a>Cumin Seeds</a>
                     </Link>
                   </h3>
@@ -124,7 +124,7 @@ const ListingMap = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/another-new-listing">
+                    <Link href="/turmerics">
                       <a>Turmeric</a>
                     </Link>
                   </h3>
