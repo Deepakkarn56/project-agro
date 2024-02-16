@@ -26,24 +26,24 @@ const GaramMasala = () => {
 
             </h3>
             <p>
-            Delight your taste buds with Eros Agro's unparalleled Curry Powder/Garam Masala – where each blend is a masterpiece, crafted with care and precision to create a warm symphony of spices. As dedicated exporters, we bring you a spice blend that transcends the boundaries of heat, offering a taste suitable for all palates.
+            Delight your taste buds with Eros Agro's unparalleled Curry Powder/Garam Masala – where each blend is a masterpiece crafted with care and precision to create a warm symphony of spices. As dedicated exporters we bring you a spice blend that transcends the boundaries of heat offering a taste suitable for all palates.
             </p>
             <h3>A Symphony of Flavors</h3>
             <p>
-            Curry Powder/Garam Masala, the very name evokes warmth and a perfect blend of spices. At Eros Agro, we meticulously select each ingredient, ensuring that they come together in their correct form and precise amounts to create a relishing taste that stands out. Whether you prefer your masala hot or mild, our blend is tailored to suit all preferences, making it a versatile addition to your culinary adventures.
+            Curry Powder/Garam Masala, the very name evokes warmth and a perfect blend of spices. At Eros Agro, we meticulously select each ingredient, ensuring that they come together in their correct form and precise amounts to create a relishing taste that stands out. Whether you prefer your masala hot or mild, our blend is tailored to suit all preferences making it a versatile addition to your culinary adventures.
 
 
             </p>
             <h3>Culinary Harmony</h3>
             <p>
-            In the world of spices, Garam Masala/Curry Powder is a treat for your taste buds. It's not just an ingredient; it's a carefully curated blend that enhances the taste and aroma of your delicacies, creating an incomparable culinary experience. Our blend is a harmonious marriage of spices, adding depth and richness to every dish it graces.
+            In the world of spices, Garam Masala/Curry Powder is a treat for your taste buds. It's not just an ingredient it's a carefully curated blend that enhances the taste and aroma of your delicacies creating an incomparable culinary experience. Our blend is a harmonious marriage of spices adding depth and richness to every dish it graces.
 
 
             </p>
            
             <h3>Contact us Today</h3>
             <p>
-            For a taste that transcends borders and elevates your culinary creations, choose Eros Agro. Contact us at +91 9914826464, and let our Curry Powder/Garam Masala become an essential component of your spice collection. Spice up your dishes and transform every meal into a delightful culinary adventure with Eros Agro!
+            For a taste that transcends borders and elevates your culinary creations choose Eros Agro. Contact us at +91 9914826464 and let our Curry Powder/Garam Masala become an essential component of your spice collection. Spice up your dishes and transform every meal into a delightful culinary adventure with Eros Agro!
 
 
             </p>

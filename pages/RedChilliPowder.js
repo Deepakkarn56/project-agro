@@ -26,15 +26,15 @@ const RedChilliPowder = () => {
               Powder!
             </h3>
             <p>
-            Experience the vibrant intensity and flavor with Eros Agro's Red Chilli Powder – a premium spice blend that brings the perfect balance of heat and flavor to your dishes. As passionate exporters, we are committed to delivering a red chilli powder that not only satisfies your desire for spice but also enhances the overall taste of your culinary creations.
+            Experience the vibrant intensity and flavor with Eros Agro's Red Chilli Powder – a premium spice blend that brings the perfect balance of heat and flavor to your dishes. As passionate exporters we are committed to delivering a red chilli powder that not only satisfies your desire for spice but also enhances the overall taste of your culinary creations.
             </p>
             <h3>A Vibrant Spectrum of Heat</h3>
             <p>
-            Our Red Chilli Powder is not just about adding spice; it's about elevating your cooking with a burst of flavor that complements every ingredient. At Eros Agro, we take pride in sourcing the finest chillies, meticulously ground to preserve their natural taste and potency. Whether you are looking for a gentle warmth or an intense fire, our red chilli powder is crafted to cater to diverse palates and preferences, making it a must-have in your kitchen arsenal.
+            Our Red Chilli Powder is not just about adding spice it's about elevating your cooking with a burst of flavor that complements every ingredient. At Eros Agro we take pride in sourcing the finest chillies meticulously ground to preserve their natural taste and potency. Whether you are looking for a gentle warmth or an intense fire, our red chilli powder is crafted to cater to diverse palates and preferences making it a must-have in your kitchen arsenal.
             </p>
             <h3>Culinary Excellence</h3>
             <p>
-            In the realm of cooking, Red Chilli Powder stands as a cornerstone ingredient, capable of transforming the ordinary into the extraordinary. It's more than just a spice; it's an expression of passion and perfection. Our blend ensures that each dish is imbued with a depth of flavor and a vibrant color, promising an unforgettable culinary journey. Let Eros Agro's Red Chilli Powder be the secret ingredient that brings your dishes to life, adding just the right amount of heat and a plethora of flavors.
+            In the realm of cooking, Red Chilli Powder stands as a cornerstone ingredient, capable of transforming the ordinary into the extraordinary. It's more than just a spice; it's an expression of passion and perfection. Our blend ensures that each dish is imbued with a depth of flavor and a vibrant color promising an unforgettable culinary journey. Let Eros Agro's Red Chilli Powder be the secret ingredient that brings your dishes to life adding just the right amount of heat and a plethora of flavors.
             </p>
            
             <h3>Contact us Today</h3>

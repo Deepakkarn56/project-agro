@@ -28,23 +28,23 @@ const BlackPepperPowder = () => {
             <p>
               Embark on a culinary journey with Eros Agro, where we proudly
               present the finest Indian red chilli flakes of exceptional
-              quality. As dedicated exporters, we seal the freshness of these
-              flavorful flakes in tamper-proof containers, ensuring a culinary
+              quality. As dedicated exporters we seal the freshness of these
+              flavorful flakes in tamper-proof containers ensuring a culinary
               experience that is nothing short of exceptional.
             </p>
             <h3>Quality Assurance:</h3>
             <p>
-            At Eros Agro, we prioritise excellence. Our red chilli flakes, also known as "PAPRIKA," are prepared from mild red chilli peppers, offering a flavour spectrum that ranges from hot to mild. Valued for both taste and its vivid red colour derived from capsanthin, our chilli flakes come in tamper-proof containers to preserve their freshness.
+            At Eros Agro we prioritise excellence. Our red chilli flakes also known as "PAPRIKA" are prepared from mild red chilli peppers, offering a flavour spectrum that ranges from hot to mild. Valued for both taste and its vivid red colour derived from capsanthin our chilli flakes come in tamper-proof containers to preserve their freshness.
 
             </p>
             <h3>Culinary Brilliance</h3>
             <p>
-            Dry chilli flakes, a condiment consisting of dried and crushed chilli peppers, have become a staple in kitchens worldwide. They are not only known for their delightful taste but also for their bright red hue, enhancing the visual appeal of dishes. Nowadays, chilli flakes share table space alongside salt and pepper in many hotels and restaurants, becoming a visual and flavorful enhancement to various cuisines.
+            Dry chilli flakes a condiment consisting of dried and crushed chilli peppers have become a staple in kitchens worldwide. They are not only known for their delightful taste but also for their bright red hue enhancing the visual appeal of dishes. Nowadays chilli flakes share table space alongside salt and pepper in many hotels and restaurants becoming a visual and flavorful enhancement to various cuisines.
 
             </p>
             <h3>Global Culinary Companion</h3>
             <p>
-            Chilli flakes are a must-have ingredient in Mexican and Italian cuisines, adding depth and heat to a variety of dishes. The simple act of topping your food with chilli flakes elevates the taste to another level, making them a convenient choice to spice up your pizza or curry with the bold flavours of Indian Red Chilli Flakes.
+            Chilli flakes are a must-have ingredient in Mexican and Italian cuisines adding depth and heat to a variety of dishes. The simple act of topping your food with chilli flakes elevates the taste to another level making them a convenient choice to spice up your pizza or curry with the bold flavours of Indian Red Chilli Flakes.
 .
             </p>
             <h3>Contact us Today</h3>
