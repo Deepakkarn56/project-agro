@@ -33,7 +33,7 @@ const ListingList = () => {
                 </div>
                 <div className="listing-content contents">
                   <h3 className="title">
-                    <Link href="/listing-map">
+                    <Link href="/BlackPepperPowder">
                       <a>Black Pepper Powder</a>
                     </Link>
                   </h3>
@@ -59,7 +59,7 @@ const ListingList = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-grid">
+                    <Link href="/Chilliflak">
                       <a>Chilli Flakes</a>
                     </Link>
                   </h3>
@@ -84,7 +84,7 @@ const ListingList = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/CuminCorianderPowder">
                       <a>Cumin Coriander Powder</a>
                     </Link>
                   </h3>
@@ -107,7 +107,7 @@ const ListingList = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/new-listing">
+                    <Link href="/GaramMasala">
                       <a>Curry Powder/Garam Masala</a>
                     </Link>
                   </h3>
@@ -131,7 +131,7 @@ const ListingList = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/another-new-listing">
+                    <Link href="/RedChilliPowder">
                       <a>Red Chilli Powder</a>
                     </Link>
                   </h3>
@@ -154,7 +154,7 @@ const ListingList = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/another-new-listing">
+                    <Link href="/TurmericPowder">
                       <a>Turmeric Powder</a>
                     </Link>
                   </h3>
