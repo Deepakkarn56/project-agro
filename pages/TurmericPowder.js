@@ -25,15 +25,15 @@ const RedChilliPowder = () => {
               Eros Agro: Elevating Culinary Art with Exquisite Turmeric Powder!
             </h3>
             <p>
-            Dive into the golden essence of Eros Agro's Turmeric Powder  a spice that not only brings a burst of color to your dishes but also infuses them with its distinctive earthy flavor and numerous health benefits. As a leading exporter Eros Agro is committed to providing turmeric powder that is pure potent and perfect for enhancing the nutritional value and taste of your meals.
+            Dive into the golden essence of Eros Agros Turmeric Powder  a spice that not only brings a burst of color to your dishes but also infuses them with its distinctive earthy flavor and numerous health benefits. As a leading exporter Eros Agro is committed to providing turmeric powder that is pure potent and perfect for enhancing the nutritional value and taste of your meals.
             </p>
             <h3>Golden Glow of Wellness</h3>
             <p>
-            Turmeric Powder with its rich golden hue is not just a spice its a symbol of purity and tradition. At Eros Agro, we ensure that our turmeric is harvested at its peak carefully processed to retain its natural curcumin content which is known for its anti-inflammatory and antioxidant properties. Whether it's used in modest amounts or as the star of the dish our turmeric powder promises to deliver a warmth that is both subtle and impactful suitable for all dietary preferences.
+            Turmeric Powder with its rich golden hue is not just a spice its a symbol of purity and tradition. At Eros Agro we ensure that our turmeric is harvested at its peak carefully processed to retain its natural curcumin content which is known for its anti-inflammatory and antioxidant properties. Whether its used in modest amounts or as the star of the dish our turmeric powder promises to deliver a warmth that is both subtle and impactful suitable for all dietary preferences.
             </p>
             <h3>A Tapestry of Taste</h3>
             <p>
-            Turmeric Powder is a culinary treasure that has been cherished across cultures for its ability to add depth and nuance to a plethora of dishes. It's not merely an ingredient it's a culinary artists tool to paint every meal with vibrant strokes of flavor and health. Eros Agros Turmeric Powder seamlessly blends with other spices enhancing their flavors and bringing a gentle earthy undertone to every dish it graces. From traditional curries to modern fusion cuisine our turmeric powder is versatile making every meal a healthy indulgence.
+            Turmeric Powder is a culinary treasure that has been cherished across cultures for its ability to add depth and nuance to a plethora of dishes. Its not merely an ingredient its a culinary artists tool to paint every meal with vibrant strokes of flavor and health. Eros Agros Turmeric Powder seamlessly blends with other spices enhancing their flavors and bringing a gentle earthy undertone to every dish it graces. From traditional curries to modern fusion cuisine our turmeric powder is versatile making every meal a healthy indulgence.
             </p>
 
             <h3>Contact us Today</h3>

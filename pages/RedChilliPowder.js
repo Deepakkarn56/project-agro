@@ -34,12 +34,12 @@ const RedChilliPowder = () => {
             </p>
             <h3>Culinary Excellence</h3>
             <p>
-            In the realm of cooking, Red Chilli Powder stands as a cornerstone ingredient, capable of transforming the ordinary into the extraordinary. Its more than just a spice its an expression of passion and perfection. Our blend ensures that each dish is imbued with a depth of flavor and a vibrant color promising an unforgettable culinary journey. Let Eros Agros Red Chilli Powder be the secret ingredient that brings your dishes to life adding just the right amount of heat and a plethora of flavors.
+            In the realm of cooking, Red Chilli Powder stands as a cornerstone ingredient capable of transforming the ordinary into the extraordinary. Its more than just a spice its an expression of passion and perfection. Our blend ensures that each dish is imbued with a depth of flavor and a vibrant color promising an unforgettable culinary journey. Let Eros Agros Red Chilli Powder be the secret ingredient that brings your dishes to life adding just the right amount of heat and a plethora of flavors.
             </p>
            
             <h3>Contact us Today</h3>
             <p>
-            Elevate your cooking and infuse your dishes with the exquisite taste and quality of Eros Agro's Red Chilli Powder. Reach out to us at +91 9914826464 and let our spice blend be a staple in your kitchen. Unleash the power of flavor and transform every meal into a fiery and flavorful experience with Eros Agro. Join us in this culinary adventure and let your taste buds revel in the heat and taste of our unmatched Red Chilli Powder!
+            Elevate your cooking and infuse your dishes with the exquisite taste and quality of Eros Agros Red Chilli Powder. Reach out to us at +91 9914826464 and let our spice blend be a staple in your kitchen. Unleash the power of flavor and transform every meal into a fiery and flavorful experience with Eros Agro. Join us in this culinary adventure and let your taste buds revel in the heat and taste of our unmatched Red Chilli Powder!
             </p>
           </div>
           <div className="sidebars">
