@@ -28,23 +28,23 @@ const BlackPepperPowder = () => {
             <p>
               Immerse yourself in the richness of Indian cuisines with Eros
               Agro, your trusted exporter of Cumin-Coriander powder. Our richly
-              blended powder, crafted with freshness and purity, serves as a
+              blended powder crafted with freshness and purity serves as a
               mandatory ingredient for flavorful and richly aromatic delicacies
               in Indian kitchens.
             </p>
             <h3>Botanical Brilliance</h3>
             <p>
-            Cumin-Coriander powder is a masterful blend of the finest quality Coriander seeds and Cumin seeds, harvested from organic farms. Scientifically known as Coriandrum sativum and Cuminum cyminum, these two spices come together to create a symphony of flavours that is quintessentially Indian.
+            Cumin-Coriander powder is a masterful blend of the finest quality Coriander seeds and Cumin seeds harvested from organic farms. Scientifically known as Coriandrum sativum and Cuminum cyminum these two spices come together to create a symphony of flavours that is quintessentially Indian.
 
             </p>
             <h3>Culinary Magic</h3>
             <p>
-            This blend is not just a common spice; it's a culinary necessity. Cumin-Coriander spice powder effortlessly infuses taste into Indian dishes. Its versatility shines as it blends seamlessly with gravies and veggies, adding a unique texture and consistency to the culinary creations.
+            This blend is not just a common spice its a culinary necessity. Cumin-Coriander spice powder effortlessly infuses taste into Indian dishes. Its versatility shines as it blends seamlessly with gravies and veggies adding a unique texture and consistency to the culinary creations.
 
             </p>
             <h3>Health Boost</h3>
             <p>
-            Beyond its culinary prowess, Cumin-Coriander powder contributes to health. The blend possesses carminative properties, enhancing metabolism and promoting overall well-being. It's more than just a spice; it's a health-conscious choice.
+            Beyond its culinary prowess, Cumin-Coriander powder contributes to health. The blend possesses carminative properties enhancing metabolism and promoting overall well-being. Its more than just a spice it's a health-conscious choice.
 
               
             </p>

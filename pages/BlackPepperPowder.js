@@ -34,7 +34,7 @@ const BlackPepperPowder = () => {
             </p>
             <h3>Quality Assurance:</h3>
             <p>
-            At Eros Agro we prioritise excellence. Our red chilli flakes also known as "PAPRIKA" are prepared from mild red chilli peppers, offering a flavour spectrum that ranges from hot to mild. Valued for both taste and its vivid red colour derived from capsanthin our chilli flakes come in tamper-proof containers to preserve their freshness.
+            At Eros Agro we prioritise excellence. Our red chilli flakes also known as PAPRIKA are prepared from mild red chilli peppers, offering a flavour spectrum that ranges from hot to mild. Valued for both taste and its vivid red colour derived from capsanthin our chilli flakes come in tamper-proof containers to preserve their freshness.
 
             </p>
             <h3>Culinary Brilliance</h3>
@@ -49,7 +49,7 @@ const BlackPepperPowder = () => {
             </p>
             <h3>Contact us Today</h3>
             <p>
-            For premium Indian red chilli flakes that bring vibrancy and heat to your culinary creations, choose Eros Agro. Contact us at +91 9914826464 and let our flavorful offerings become an essential part of your culinary adventures. Spice up your dishes and elevate your dining experience with Eros Agro's exceptional chilli flakes!
+            For premium Indian red chilli flakes that bring vibrancy and heat to your culinary creations, choose Eros Agro. Contact us at +91 9914826464 and let our flavorful offerings become an essential part of your culinary adventures. Spice up your dishes and elevate your dining experience with Eros Agros exceptional chilli flakes!
             </p>
           </div>
           <div className="sidebars">

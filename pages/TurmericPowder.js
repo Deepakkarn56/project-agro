@@ -25,7 +25,7 @@ const RedChilliPowder = () => {
               Eros Agro: Elevating Culinary Art with Exquisite Turmeric Powder!
             </h3>
             <p>
-            Dive into the golden essence of Eros Agro's Turmeric Powder – a spice that not only brings a burst of color to your dishes but also infuses them with its distinctive earthy flavor and numerous health benefits. As a leading exporter, Eros Agro is committed to providing turmeric powder that is pure, potent, and perfect for enhancing the nutritional value and taste of your meals.
+            Dive into the golden essence of Eros Agro's Turmeric Powder – a spice that not only brings a burst of color to your dishes but also infuses them with its distinctive earthy flavor and numerous health benefits. As a leading exporter Eros Agro is committed to providing turmeric powder that is pure potent and perfect for enhancing the nutritional value and taste of your meals.
             </p>
             <h3>Golden Glow of Wellness</h3>
             <p>
@@ -33,12 +33,12 @@ const RedChilliPowder = () => {
             </p>
             <h3>A Tapestry of Taste</h3>
             <p>
-            Turmeric Powder is a culinary treasure that has been cherished across cultures for its ability to add depth and nuance to a plethora of dishes. It's not merely an ingredient; it's a culinary artist's tool to paint every meal with vibrant strokes of flavor and health. Eros Agro's Turmeric Powder seamlessly blends with other spices enhancing their flavors and bringing a gentle earthy undertone to every dish it graces. From traditional curries to modern fusion cuisine our turmeric powder is versatile making every meal a healthy indulgence.
+            Turmeric Powder is a culinary treasure that has been cherished across cultures for its ability to add depth and nuance to a plethora of dishes. It's not merely an ingredient; it's a culinary artists tool to paint every meal with vibrant strokes of flavor and health. Eros Agros Turmeric Powder seamlessly blends with other spices enhancing their flavors and bringing a gentle earthy undertone to every dish it graces. From traditional curries to modern fusion cuisine our turmeric powder is versatile making every meal a healthy indulgence.
             </p>
 
             <h3>Contact us Today</h3>
             <p>
-            For a golden touch that transcends culinary boundaries and nurtures health, choose Eros Agro. Contact us at +91 9914826464, and let our Turmeric Powder be a golden key to unlocking the full potential of your culinary creations. Elevate your dishes with the purity potency and unparalleled quality of Eros Agro's Turmeric Powder and embark on a flavorful journey that delights the senses and fortifies the body.
+            For a golden touch that transcends culinary boundaries and nurtures health choose Eros Agro. Contact us at +91 9914826464 and let our Turmeric Powder be a golden key to unlocking the full potential of your culinary creations. Elevate your dishes with the purity potency and unparalleled quality of Eros Agros Turmeric Powder and embark on a flavorful journey that delights the senses and fortifies the body.
             </p>
           </div>
           <div className="sidebars">

@@ -26,7 +26,7 @@ const Chilliflak = () => {
               Chilli Flakes!
             </h3>
             <p>
-              Embark on a culinary journey with Eros Agro, where we proudly
+              Embark on a culinary journey with Eros Agro where we proudly
               present the finest Indian red chilli flakes of exceptional
               quality. As dedicated exporters we seal the freshness of these
               flavorful flakes in tamper-proof containers ensuring a culinary
@@ -34,7 +34,7 @@ const Chilliflak = () => {
             </p>
             <h3>Quality Assurance:</h3>
             <p>
-            At Eros Agro we prioritise excellence. Our red chilli flakes also known as "PAPRIKA" are prepared from mild red chilli peppers offering a flavour spectrum that ranges from hot to mild. Valued for both taste and its vivid red colour derived from capsanthin our chilli flakes come in tamper-proof containers to preserve their freshness.
+            At Eros Agro we prioritise excellence. Our red chilli flakes also known as PAPRIKA are prepared from mild red chilli peppers offering a flavour spectrum that ranges from hot to mild. Valued for both taste and its vivid red colour derived from capsanthin our chilli flakes come in tamper-proof containers to preserve their freshness.
 
             </p>
             <h3>Culinary Brilliance</h3>
