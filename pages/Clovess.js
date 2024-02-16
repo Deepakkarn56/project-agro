@@ -33,9 +33,9 @@ const Clovess = () => {
             <h3>Botanical Brilliance</h3>
             <p>
               Scientifically known as Syzygium aromaticum and belonging to the
-              Myrtaceae family, cloves are the unopened flower buds of a
-              tropical tree. The name 'clove' is derived from the Latin word for
-              'nails'. Native to the Maluku Islands in Indonesia cloves have a
+              Myrtaceae family cloves are the unopened flower buds of a
+              tropical tree. The name clove is derived from the Latin word for
+              nails. Native to the Maluku Islands in Indonesia cloves have a
               rich history as aromatic spices.
             </p>
             <h3>Aroma and Flavor Mastery</h3>
@@ -48,7 +48,7 @@ const Clovess = () => {
             </p>
             <h3>Culinary Versatility</h3>
             <p>
-              Cloves, while capable of overpowering the taste, are used in
+              Cloves while capable of overpowering the taste, are used in
               dishes in small amounts to add depth and character. They are not
               just limited to enhancing the flavour of various dishes but are
               also employed as hooks to bind rotis vegetables betel nut
