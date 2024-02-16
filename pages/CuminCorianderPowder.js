@@ -44,13 +44,13 @@ const BlackPepperPowder = () => {
             </p>
             <h3>Health Boost</h3>
             <p>
-            Beyond its culinary prowess, Cumin-Coriander powder contributes to health. The blend possesses carminative properties enhancing metabolism and promoting overall well-being. Its more than just a spice it's a health-conscious choice.
+            Beyond its culinary prowess Cumin-Coriander powder contributes to health. The blend possesses carminative properties enhancing metabolism and promoting overall well-being. Its more than just a spice its a health-conscious choice.
 
               
             </p>
             <h3>Contact us Today</h3>
             <p>
-            For premium Cumin-Coriander powder that elevates your Indian delicacies, choose Eros Agro. Contact us at +91 9914826464, and let our richly blended powder become an indispensable part of your spice collection. Spice up your dishes and embrace the richness of flavour with Eros Agro!
+            For premium Cumin-Coriander powder that elevates your Indian delicacies choose Eros Agro. Contact us at +91 9914826464 and let our richly blended powder become an indispensable part of your spice collection. Spice up your dishes and embrace the richness of flavour with Eros Agro!
 
             </p>
           </div>
