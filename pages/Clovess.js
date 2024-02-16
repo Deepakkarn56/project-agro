@@ -28,14 +28,14 @@ const Clovess = () => {
               Experience the richness of handpicked cloves with Eros Agro, your
               premier exporter of the best-quality cloves. Our premium packing
               ensures that the aroma and flavour of these superb quality cloves
-              remain intact, selected and handpicked to sustain their purity.
+              remain intact selected and handpicked to sustain their purity.
             </p>
             <h3>Botanical Brilliance</h3>
             <p>
               Scientifically known as Syzygium aromaticum and belonging to the
               Myrtaceae family, cloves are the unopened flower buds of a
               tropical tree. The name 'clove' is derived from the Latin word for
-              'nails'. Native to the Maluku Islands in Indonesia, cloves have a
+              'nails'. Native to the Maluku Islands in Indonesia cloves have a
               rich history as aromatic spices.
             </p>
             <h3>Aroma and Flavor Mastery</h3>
@@ -43,7 +43,7 @@ const Clovess = () => {
               Eros Agro takes pride in offering cloves that stand out for their
               ability to impart flavour and a strong aroma to dishes. The
               unopened flower buds are carefully selected and handpicked to
-              ensure premium quality, with packaging designed to preserve their
+              ensure premium quality with packaging designed to preserve their
               unmatched aroma and flavor
             </p>
             <h3>Culinary Versatility</h3>
@@ -51,14 +51,14 @@ const Clovess = () => {
               Cloves, while capable of overpowering the taste, are used in
               dishes in small amounts to add depth and character. They are not
               just limited to enhancing the flavour of various dishes but are
-              also employed as hooks to bind rotis, vegetables, betel nut
-              leaves, or samosas. Commonly used in making rice, cloves
+              also employed as hooks to bind rotis vegetables betel nut
+              leaves or samosas. Commonly used in making rice cloves
               contribute a rich aroma and flavour to culinary creations.
             </p>
             <h3>Contact us Today</h3>
             <p>
               For the best-quality hand picked cloves that elevate your culinary
-              creations, choose Eros Agro. Contact us at +91 9914826464, and let
+              creations choose Eros Agro. Contact us at +91 9914826464 and let
               our premium cloves become an essential part of your spice
               collection. Spice up your dishes and embrace the richness of
               flavour with Eros Agro!
