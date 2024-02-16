@@ -36,7 +36,7 @@ const ListingGrid = () => {
                 </div>
                 <div className="listing-content contents">
                   <h3 className="title">
-                    <Link href="/listing-map">
+                    <Link href="/Kalonji">
                       <a>Black Cumin/Kalonji</a>
                     </Link>
                   </h3>
@@ -68,7 +68,7 @@ const ListingGrid = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-grid">
+                    <Link href="/BlackMustardSeeds">
                       <a>Black Mustard Seeds</a>
                     </Link>
                   </h3>
@@ -101,7 +101,7 @@ const ListingGrid = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/BlackSesameSeeds">
                       <a>Black Sesame Seeds</a>
                     </Link>
                   </h3>
@@ -125,7 +125,7 @@ const ListingGrid = () => {
               >
                 <div className="listing-thumbnail">
                   <Image
-                    src="/assets/images/spices/nlack_sesame.jpg"
+                    src="/assets/images/spices/hulled.jpg"
                     alt="Listing Image"
                     width={800}
                     height={700}
@@ -134,7 +134,7 @@ const ListingGrid = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/HulledSesameSeeds">
                       <a>Hulled Sesame Seeds</a>
                     </Link>
                   </h3>
@@ -167,7 +167,7 @@ const ListingGrid = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/NaturalSesameSeeds">
                       <a>Natural Sesame Seeds</a>
                     </Link>
                   </h3>
