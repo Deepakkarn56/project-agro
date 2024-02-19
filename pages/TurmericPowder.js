@@ -9,6 +9,7 @@ const RedChilliPowder = () => {
   return (
     <Layout>
       <PageBanner title={"Turmeric Powder"} />
+      <h2 className="headingss">Turmeric Powder</h2>
 
       <section className="bodys">
         <div className="containers">

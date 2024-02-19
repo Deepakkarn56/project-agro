@@ -9,6 +9,7 @@ const NaturalSesameSeeds = () => {
   return (
     <Layout>
       <PageBanner title={"NaturalSesameSeeds"} />
+      <h2 className="headingss">Natural Sesame Seeds</h2>
 
       <section className="bodys">
         <div className="containers">

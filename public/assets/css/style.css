@@ -123,6 +123,7 @@ ul, ol {
   margin: 0px;
   padding: 0px;
   list-style-type: none;
+  
 }
 
 p {
@@ -3027,6 +3028,8 @@ iframe {
   height: 100%; 
   aspect-ratio: 450 / 250; 
 }
+/* Navbars */
+
 
 
 /* Responsive styles */
@@ -3050,6 +3053,11 @@ iframe {
   display: flex;
   flex-direction: column;
   /* justify-content: space-between;  */
+}
+/* Headingss css */
+.headingss{
+  text-align: center;
+  padding-top: 15px;
 }
 
 /* Responsive adjustments */

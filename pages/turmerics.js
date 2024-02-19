@@ -9,6 +9,7 @@ const turmerics = () => {
   return (
     <Layout>
       <PageBanner title={"Turmeric"} pageName={"Turmeric"} />
+      <h2 className="headingss">Turmeric</h2>
       <section className="bodys">
         <div className="containers">
           <div className="main-contents">

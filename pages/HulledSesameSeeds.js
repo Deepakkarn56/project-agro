@@ -8,7 +8,8 @@ import BlackPepper from "./BlackPeppers";
 const HulledSesameSeeds = () => {
   return (
     <Layout>
-      <PageBanner title={"Black Cumin/Kalonji"} />
+      <PageBanner title={"HulledSesameSeeds"} />
+      <h2 className="headingss">Hulled Sesame Seeds</h2>
 
       <section className="bodys">
         <div className="containers">

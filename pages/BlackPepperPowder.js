@@ -9,6 +9,7 @@ const BlackPepperPowder = () => {
   return (
     <Layout>
       <PageBanner title={"BlackPepperPowder"} />
+      <h2 className="headingss">Black Pepper Powder</h2>
 
       <section className="bodys">
         <div className="containers">

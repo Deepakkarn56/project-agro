@@ -25,7 +25,7 @@ const Herbs = () => {
           <div className="row justify-content-center">
             <div className="col-lg-8">
               <div className="section-title text-center mb-75 wow fadeInUp">
-                <h2>Hurbs</h2>
+                <h2>Herbs</h2>
               </div>
             </div>
           </div>
@@ -96,7 +96,7 @@ const Herbs = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="40ms">
                 <div className="listing-thumbnail">
-                  <Image src="/assets/images/spices/Psyllium Husk.png" alt="Listing Image" width={800} height={700} />
+                  <Image src="/assets/images/spices/PsylliumHusk.png" alt="Listing Image" width={800} height={700} />
                   <span className="featured-btn">Featured</span>
                 </div>
                 <div className="listing-content">
@@ -116,7 +116,7 @@ const Herbs = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="50ms">
                 <div className="listing-thumbnail">
-                  <Image src="/assets/images/spices/Quinoa Seeds.png" alt="Listing Image" width={800} height={700} />
+                  <Image src="/assets/images/spices/QuinoaSeeds.png" alt="Listing Image" width={800} height={700} />
                   <span className="featured-btn">Featured</span>
                 </div>
                 <div className="listing-content">
@@ -135,7 +135,7 @@ const Herbs = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="50ms">
                 <div className="listing-thumbnail">
-                  <Image src="/assets/images/spices/Bay Leaves.png" alt="Listing Image" width={800} height={700} />
+                  <Image src="/assets/images/spices/BayLeaves.png" alt="Listing Image" width={800} height={700} />
                   <span className="featured-btn">Featured</span>
                 </div>
                 <div className="listing-content">

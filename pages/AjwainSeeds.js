@@ -8,10 +8,13 @@ const AjwainSeeds = () => {
   return (
     <Layout>
       <PageBanner title={"AjwainSeeds"} />
+      <h2 className="headingss">Ajwain Seeds</h2>
 
       <section className="bodys">
+        
         <div className="containers">
           <div className="main-contents">
+            
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/ajwain.jpg"

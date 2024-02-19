@@ -5,10 +5,11 @@ import Layout from "../src/layouts/Layout";
 import Image from "next/image";
 import BlackPepper from "./BlackPeppers";
 
-const BlackPepperPowder = () => {
+const CuminCorianderPowder = () => {
   return (
     <Layout>
-      <PageBanner title={"BlackPepperPowder"} />
+      <PageBanner title={"CuminCorianderPowder"} />
+      <h2 className="headingss">Cumin Coriander Powder</h2>
 
       <section className="bodys">
         <div className="containers">
@@ -84,4 +85,4 @@ const BlackPepperPowder = () => {
     </Layout>
   );
 };
-export default BlackPepperPowder;
+export default CuminCorianderPowder;

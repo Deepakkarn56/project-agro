@@ -9,6 +9,7 @@ const CorianderSeeds = () => {
   return (
     <Layout>
       <PageBanner title={"CorianderSeeds"} pageName={"CorianderSeeds"} />
+      <h2 className="headingss">Coriander Seeds</h2>
       <section className="bodys">
         <div className="containers">
           <div className="main-contents">

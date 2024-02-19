@@ -9,6 +9,7 @@ const BlackMustardSeeds = () => {
   return (
     <Layout>
       <PageBanner title={"BlackMustardSeeds"} />
+      <h2 className="headingss">Black Mustard Seeds</h2>
 
       <section className="bodys">
         <div className="containers">

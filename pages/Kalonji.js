@@ -8,7 +8,8 @@ import BlackPepper from "./BlackPeppers";
 const Kalonji = () => {
   return (
     <Layout>
-      <PageBanner title={"Black Cumin/Kalonji"} />
+      <PageBanner title={"Black Cumin"} />
+      <h2 className="headingss">Black Cumin</h2>
 
       <section className="bodys">
         <div className="containers">

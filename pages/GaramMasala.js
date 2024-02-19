@@ -9,6 +9,7 @@ const GaramMasala = () => {
   return (
     <Layout>
       <PageBanner title={"GaramMasala"} />
+      <h2 className="headingss">Garam Masala</h2>
 
       <section className="bodys">
         <div className="containers">

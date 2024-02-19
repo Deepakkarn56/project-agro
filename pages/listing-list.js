@@ -102,7 +102,7 @@ const ListingList = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items" data-wow-delay="40ms">
                 <div className="listing-thumbnail">
-                  <Image src="/assets/images/spices/currypowder.png" alt="Listing Image" width={800} height={700} />
+                  <Image src="/assets/images/spices/GaramMasala.png" alt="Listing Image" width={800} height={700} />
                   <span className="featured-btn">Featured</span>
                 </div>
                 <div className="listing-content">
