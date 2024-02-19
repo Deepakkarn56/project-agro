@@ -84,7 +84,7 @@ const Footer = () => {
                           </a>
                         </span>
                         <span className="posted-on">
-                          <a href="export@erosagro.com">
+                          <a href="mailto:erosagro64@gmail.com">
                             <i className="">
                               <h6 className="title ti-email">
                                 {" "}
