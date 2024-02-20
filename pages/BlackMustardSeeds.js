@@ -58,15 +58,15 @@ const BlackMustardSeeds = () => {
 
             <h3>Health and Wellness</h3>
             <p>
-              Black Mustard Seeds go beyond taste, offering health benefits.
-              They can help increase appetite, neutralise toxins, and serve as a
+              Black Mustard Seeds go beyond taste offering health benefits.
+              They can help increase appetite neutralise toxins and serve as a
               good source of minerals and Omega-3 fatty acids contributing to a
               holistic approach to well-being.
             </p>
             <h3>Contact us Today</h3>
             <p>
               For premium Black Mustard Seeds that elevate your culinary
-              creations, choose Eros Agro. Contact us at +91 9914826464, and let
+              creations, choose Eros Agro. Contact us at +91 9914826464 and let
               our superior quality Black Mustard Seeds become an essential part
               of your spice collection. Spice up your dishes and embrace the
               richness of flavor with Eros Agro!

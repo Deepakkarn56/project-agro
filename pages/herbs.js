@@ -39,7 +39,7 @@ const Herbs = () => {
                 </div>
                 <div className="listing-content contents">
                   <h3 className="title">
-                    <Link href="/listing-map">
+                    <Link href="/PepperMint">
                       <a>PepperMint</a>
                     </Link>
                   </h3>
@@ -63,7 +63,7 @@ const Herbs = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-grid">
+                    <Link href="/Lavender">
                       <a>Lavender</a>
                     </Link>
                   </h3>
@@ -82,7 +82,7 @@ const Herbs = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/Leaf">
                       <a>Moringa Seeds/Leaf/Powder</a>
                     </Link>
                   </h3>
@@ -101,7 +101,7 @@ const Herbs = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/new-listing">
+                    <Link href="/PsylliumHusk">
                       <a>Psyllium Husk</a>
                     </Link>
                   </h3>
@@ -121,7 +121,7 @@ const Herbs = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/another-new-listing">
+                    <Link href="/QuinoaSeeds">
                       <a>Quinoa Seeds</a>
                     </Link>
                   </h3>
@@ -140,7 +140,7 @@ const Herbs = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/another-new-listing">
+                    <Link href="/BayLeaves">
                       <a>Bay Leaves</a>
                     </Link>
                   </h3>

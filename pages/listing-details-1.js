@@ -41,7 +41,7 @@ const ListingDetails1 = () => {
                 </div>
                 <div className="listing-content contents">
                   <h3 className="title">
-                    <Link href="/listing-map">
+                    <Link href="/BayLeaves">
                       <a>Bay Leafs</a>
                     </Link>
                   </h3>
@@ -74,7 +74,7 @@ const ListingDetails1 = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-grid">
+                    <Link href="/ChickPeass">
                       <a>ChickPeas</a>
                     </Link>
                   </h3>
@@ -109,7 +109,7 @@ const ListingDetails1 = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/GreenMilletBajra">
                       <a>Green Millet Bajra</a>
                     </Link>
                   </h3>
@@ -181,7 +181,7 @@ const ListingDetails1 = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/PsyllumHuskPowder">
                       <a>Psyllum Husk & Powder</a>
                     </Link>
                   </h3>

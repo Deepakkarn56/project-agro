@@ -29,13 +29,13 @@ const Kalonji = () => {
             <p>
               Embark on a journey to well-being with Eros Agro, your trusted
               exporter of superior Black Cumin Seeds. Renowned globally for
-              their health benefits, we provide the ultimate quality of Black
+              their health benefits we provide the ultimate quality of Black
               Cumin Seeds to discerning customers around the world.
             </p>
             <h3>Botanical Excellence</h3>
             <p>
               Scientifically known as Nigella sativa and belonging to the family
-              Ranunculaceae, Black Cumin Seeds, also known as Kalonji, are
+              Ranunculaceae, Black Cumin Seeds, also known as Kalonji are
               distinguishable by their black colour. Native to South West Asia,
               they bear a resemblance to Black Sesame Seeds but stand out in
               their own right for their unique properties.
@@ -44,22 +44,22 @@ const Kalonji = () => {
             <p>
               At Eros Agro, we recognize the profound health benefits associated
               with Black Cumin Seeds. Known for being an energy booster and
-              overcoming fatigue, these seeds are believed to contribute to
+              overcoming fatigue these seeds are believed to contribute to
               overall well-being. The oil extract is particularly esteemed for
               its nutritive application, promoting healthy hair growth.
             </p>
             <h3>Aromatic Flavor</h3>
             <p>
               Black Cumin Seeds from Eros Agro are slightly aromatic with a
-              peppery flavour, adding depth and character to your culinary
-              creations. Beyond their culinary applications, they stand as a
+              peppery flavour adding depth and character to your culinary
+              creations. Beyond their culinary applications they stand as a
               testament to the holistic approach to health and wellness.
             </p>
 
             <h3>Contact us Today</h3>
             <p>
               For premium Black Cumin Seeds that encapsulate the essence of
-              well-being, choose Eros Agro. Contact us at +91 9914826464, and
+              well-being choose Eros Agro. Contact us at +91 9914826464 and
               let our superior quality Black Cumin Seeds become an indispensable
               part of your health and culinary journey. Elevate your well-being
               with Eros Agro!
