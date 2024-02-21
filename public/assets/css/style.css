@@ -93,11 +93,13 @@ h6 {
 h1 {
   font-size: 90px;
   line-height: 90px;
+  flex-wrap: wrap;
 }
 
 h2 {
   font-size: 48px;
   line-height: 55px;
+  
 }
 
 h3 {
@@ -123,6 +125,7 @@ ul, ol {
   margin: 0px;
   padding: 0px;
   list-style-type: none;
+  
   
 }
 

@@ -8,8 +8,8 @@ import BlackPepper from "./BlackPeppers";
 const CuminCorianderPowder = () => {
   return (
     <Layout>
-      <PageBanner title={"CuminCorianderPowder"} />
-      <h2 className="headingss">Cumin Coriander Powder</h2>
+      <PageBanner title={"Coriander Powder"} />
+      <h2 className="headingss">Coriander Powder</h2>
 
       <section className="bodys">
         <div className="containers">
