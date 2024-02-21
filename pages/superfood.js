@@ -47,7 +47,7 @@ const SuperFoods = () => {
                 </div>
                 <div className="listing-content contents">
                   <h3 className="title">
-                    <Link href="/listing-map">
+                    <Link href="/SweetPotato">
                       <a>Sweet Potato</a>
                     </Link>
                   </h3>
@@ -78,7 +78,7 @@ const SuperFoods = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-grid">
+                    <Link href="/MixedBerry">
                       <a>Mixed Berry</a>
                     </Link>
                   </h3>
@@ -111,7 +111,7 @@ const SuperFoods = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/NaturalAlmonds">
                       <a>Natural Almonds</a>
                     </Link>
                   </h3>
