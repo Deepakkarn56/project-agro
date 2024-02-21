@@ -23,7 +23,7 @@ const MixedBerry = () => {
               />
             </div>
             <h3>
-            Mixed Berries: Nature's Burst of Flavor and Nutrition for Health and Delight!
+            Mixed Berries: Natures Burst of Flavor and Nutrition for Health and Delight!
             </h3>
             <p>
             Savor the vibrant taste and nutritional bounty of mixed berries a delightful offering from Eros Agro. Our premium selection of mixed berries combines the finest varieties nature has to offer delivering a medley of flavors and health benefits that are sure to tantalize your taste buds and nourish your body.
@@ -49,7 +49,7 @@ const MixedBerry = () => {
 
             <h3>Elevate Your Health and Happiness</h3>
             <p>
-            Experience the joy of wholesome eating with mixed berries from Eros Agro. Contact us at +91 9914826464 to explore our selection of premium mixed berries and discover how they can add flavor nutrition and delight to your daily routine. Embrace the goodness of nature's bounty and nourish your body with the irresistible taste of mixed berries from Eros Agro!
+            Experience the joy of wholesome eating with mixed berries from Eros Agro. Contact us at +91 9914826464 to explore our selection of premium mixed berries and discover how they can add flavor nutrition and delight to your daily routine. Embrace the goodness of natures bounty and nourish your body with the irresistible taste of mixed berries from Eros Agro!
             </p>
           </div>
           <div className="sidebars">

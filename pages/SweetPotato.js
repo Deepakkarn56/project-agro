@@ -23,7 +23,7 @@ const SweetPotato = () => {
               />
             </div>
             <h3>
-              Sweet Potato: Nature's Nutrient-Rich Gem for Health and Flavor!
+              Sweet Potato: Natures Nutrient-Rich Gem for Health and Flavor!
             </h3>
             <p>
               Indulge in the wholesome goodness of sweet potatoes a nutritional
@@ -43,7 +43,7 @@ const SweetPotato = () => {
             </p>
             <h3>Versatile Culinary Delight</h3>
             <p>
-              From savory dishes to sweet treats, sweet potatoes are a versatile
+              From savory dishes to sweet treats sweet potatoes are a versatile
               culinary ingredient that can be incorporated into a myriad of
               recipes. Whether roasted mashed baked or fried the natural
               sweetness and creamy texture of sweet potatoes add depth and
@@ -59,7 +59,7 @@ const SweetPotato = () => {
             </p>
             <h3>Garden-Fresh Goodness</h3>
             <p>
-              At Eros Agro, we take pride in delivering sweet potatoes of the
+              At Eros Agro we take pride in delivering sweet potatoes of the
               highest quality. Grown in nutrient-rich soil and carefully
               harvested at peak ripeness our sweet potatoes retain their natural
               flavor texture and nutritional value. From field to fork we ensure

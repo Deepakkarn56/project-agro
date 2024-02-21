@@ -23,7 +23,7 @@ const NaturalAlmonds = () => {
               />
             </div>
             <h3>
-              Natural Almonds: Nature's Nutrient-Packed Powerhouse for Health
+              Natural Almonds: Natures Nutrient-Packed Powerhouse for Health
               and Flavor!
             </h3>
             <p>
@@ -45,7 +45,7 @@ const NaturalAlmonds = () => {
             </p>
             <h3>Versatile Culinary Ingredient</h3>
             <p>
-              From snacking to cooking and baking, natural almonds are a
+              From snacking to cooking and baking natural almonds are a
               versatile culinary ingredient that adds texture flavor and
               nutrition to a wide range of dishes. Whether enjoyed on their own
               as a satisfying snack or sprinkled over salads yogurt or oatmeal
