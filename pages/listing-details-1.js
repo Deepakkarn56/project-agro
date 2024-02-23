@@ -134,7 +134,7 @@ const ListingDetails1 = () => {
               >
                 <div className="listing-thumbnail">
                   <Image
-                    src="/assets/images/spices/moringa.jpg"
+                    src="/assets/images/spices/moringa.png"
                     alt="Listing Image"
                     width={800}
                     height={700}
@@ -143,7 +143,7 @@ const ListingDetails1 = () => {
                 </div>
                 <div className="listing-content">
                   <h3 className="title">
-                    <Link href="/listing-list">
+                    <Link href="/MoringaSeedsPowder">
                       <a>Moringa Seeds/Leafs/Powder</a>
                     </Link>
                   </h3>
