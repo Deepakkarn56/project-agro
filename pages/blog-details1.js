@@ -48,12 +48,12 @@ const BlogDetails1 = () => {
                     </div>
                     <h3 className="title">Introduction:</h3>
                     <p>
-                      Black pepper commonly known as the "king of spices" is
+                      Black pepper commonly known as the king of spices is
                       more than just a flavour enhancer in culinary dishes. It
                       boasts a plethora of health benefits that have been
                       recognized for centuries. From aiding digestion to
                       boosting immunity black pepper is a versatile spice with
-                      numerous advantages for overall well-being. Let's explore
+                      numerous advantages for overall well-being. Lets explore
                       the top 10 health benefits of incorporating black pepper
                       into your diet.
                     </p>
@@ -86,12 +86,12 @@ const BlogDetails1 = () => {
                     <p>
                       Piperine in black pepper has been found to inhibit the
                       formation of fat cells making it beneficial for weight
-                      management. Additionally black pepper's ability to boost
+                      management. Additionally black peppers ability to boost
                       metabolism aids in calorie burning and promotes fat loss.
                     </p>
                     <h4> Improves Respiratory Health:</h4>
                     <p>
-                      Black pepper's expectorant properties help loosen phlegm
+                      Black peppers expectorant properties help loosen phlegm
                       and mucus in the respiratory tract making it easier to
                       expel. This can provide relief from respiratory conditions
                       like coughs colds and congestion.
@@ -120,7 +120,7 @@ const BlogDetails1 = () => {
                     </p>
                     <h4> Boosts Immunity:</h4>
                     <p>
-                      Black pepper's antimicrobial properties help strengthen
+                      Black peppers antimicrobial properties help strengthen
                       the immune system and defend the body against infections.
                       Regular consumption of black pepper can enhance immunity
                       and reduce the risk of common illnesses.
@@ -128,8 +128,8 @@ const BlogDetails1 = () => {
                     <h4> Alleviates Pain:</h4>
                     <p>
                       Black pepper has natural analgesic properties that can
-                      help alleviate pain and discomfort. Whether it's
-                      headaches muscle soreness or joint pain black pepper's
+                      help alleviate pain and discomfort. Whether its
+                      headaches muscle soreness or joint pain black peppers
                       anti-inflammatory effects can provide relief without the
                       side effects of conventional pain medications.
                     </p>

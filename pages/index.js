@@ -264,7 +264,7 @@ const Index = () => {
                     delight the palate. From traditional favourites to
                     innovative blends each spice mixture is carefully curated to
                     deliver a unique and unforgettable taste experience. With
-                    Eros Agro's commitment to quality and authenticity you can
+                    Eros Agros commitment to quality and authenticity you can
                     trust that every blend will elevate your dishes to new
                     heights of flavour sophistication. Explore the artistry of
                     spice blending with Eros Agro where every blend tells a
