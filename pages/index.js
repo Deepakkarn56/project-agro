@@ -164,7 +164,7 @@ const Index = () => {
               >
                 <div className="listing-thumbnail">
                   <Image
-                    src="/assets/images/spices/whole_spices.png"
+                    src="/assets/images/spices/wholespices.png"
                     alt="Listing Image"
                     width={800}
                     height={700}
@@ -203,7 +203,7 @@ const Index = () => {
               >
                 <div className="listing-thumbnail">
                   <Image
-                    src="/assets/images/spices/oil_seeds.png"
+                    src="/assets/images/spices/oilseedsss.png"
                     alt="Listing Image"
                     width={800}
                     height={700}
@@ -241,7 +241,7 @@ const Index = () => {
               >
                 <div className="listing-thumbnail">
                   <Image
-                    src="/assets/images/spices/blended_spices.png"
+                    src="/assets/images/spices/blendedspices.png"
                     alt="Listing Image"
                     width={800}
                     height={700}
