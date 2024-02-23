@@ -118,37 +118,37 @@ const BlogDetails = () => {
                     <p>
                       Coriander seeds contain nutrients like vitamin K and
                       calcium, essential for maintaining brain function and
-                      promoting cognitive health, potentially reducing the risk
+                      promoting cognitive health potentially reducing the risk
                       of neurodegenerative diseases like Alzheimer's.
                     </p>
                     <h3>Relieves Menstrual Discomfort:</h3>
                     <p>
                       Coriander seeds' anti-inflammatory and analgesic
                       properties may help alleviate menstrual cramps and
-                      discomfort, providing natural relief for women during
+                      discomfort providing natural relief for women during
                       their menstrual cycles.
                     </p>
                     <h3>Promotes Eye Health:</h3>
                     <p>
                       The vitamin A content in coriander seeds supports eye
-                      health by promoting good vision, reducing the risk of
-                      age-related macular degeneration, and protecting the eyes
+                      health by promoting good vision reducing the risk of
+                      age-related macular degeneration and protecting the eyes
                       from oxidative damage.
                     </p>
                     <h3>Alleviates Anxiety and Improves Sleep:</h3>
                     <p>
-                      Coriander seeds contain compounds like linalool, known for
-                      their calming and sedative effects, which may help reduce
-                      anxiety levels, promote relaxation, and improve sleep
+                      Coriander seeds contain compounds like linalool known for
+                      their calming and sedative effects which may help reduce
+                      anxiety levels promote relaxation and improve sleep
                       quality.
                     </p>
                     <h3>Conclusion:</h3>
                     <p>
                       From aiding digestion to promoting heart health and
-                      relieving menstrual discomfort, the benefits of coriander
+                      relieving menstrual discomfort the benefits of coriander
                       seeds are truly remarkable. Incorporating these versatile
                       seeds into your diet can contribute to overall health and
-                      well-being. Whether consumed whole, ground, or as a
+                      well-being. Whether consumed whole, ground or as a
                       flavorful spice in cooking, harness the power of coriander
                       seeds to unlock their full potential and enjoy a healthier
                       lifestyle.

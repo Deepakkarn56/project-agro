@@ -31,10 +31,10 @@ const About = () => {
                     <p>
                       Introducing Eros Agro: Your Gateway to Exceptional Spice
                       Experiences! Embark on a culinary journey like no other
-                      with Eros Agro, where every spice tells a story of
-                      flavour, tradition, and excellence. With a heartfelt
-                      passion for spices, we curate a selection of the finest
-                      offerings from around the globe, delivering an
+                      with Eros Agro where every spice tells a story of
+                      flavour tradition and excellence. With a heartfelt
+                      passion for spices we curate a selection of the finest
+                      offerings from around the globe delivering an
                       unparalleled sensory experience to your kitchen.
                     </p>
 
@@ -50,19 +50,19 @@ const About = () => {
 
                     <p>
                       At Eros Agro, we understand that great cooking starts with
-                      great ingredients. That's why we go to great lengths to
-                      ensure that our spices are of the highest quality, from
+                      great ingredients. Thats why we go to great lengths to
+                      ensure that our spices are of the highest quality from
                       sourcing to processing. Our state-of-the-art facilities
-                      adhere to strict quality control standards, preserving the
+                      adhere to strict quality control standards preserving the
                       freshness and potency of every spice.
                     </p>
 
                     <p>
                       Our range of products is as diverse as the cuisines they
-                      enhance. Whether you're a fan of bold, fiery spices or
-                      prefer the delicate balance of aromatic blends, we have
+                      enhance. Whether youre a fan of bold fiery spices or
+                      prefer the delicate balance of aromatic blends we have
                       something for every palate. Explore our collection of
-                      whole spices, ground powders, and signature blends, each
+                      whole spices ground powders and signature blends each
                       crafted to elevate your culinary creations to new heights.
                     </p>
 
@@ -70,17 +70,17 @@ const About = () => {
                       But our commitment doesn't end with quality products. We
                       strive to provide exceptional service every step of the
                       way. Our knowledgeable team is here to assist you in
-                      selecting the perfect spices for your needs, offering
+                      selecting the perfect spices for your needs offering
                       personalised recommendations and culinary inspiration. And
                       because we believe in giving back to the communities that
-                      nurture our spices, we are dedicated to sustainability and
-                      ethical sourcing practices. By choosing Eros Agro, you're
+                      nurture our spices we are dedicated to sustainability and
+                      ethical sourcing practices. By choosing Eros Agro you're
                       not just adding flavour to your dishes – you're supporting
                       responsible agriculture and fair trade initiatives around
                       the world. Whether you're a home cook looking to spice up
                       your meals or a professional chef seeking the finest
-                      ingredients, Eros Agro is your trusted partner in flavour.
-                      Join us on a journey of culinary discovery, where every
+                      ingredients Eros Agro is your trusted partner in flavour.
+                      Join us on a journey of culinary discovery where every
                       spice tells a story and every meal is a masterpiece.
                       Experience the difference with Eros Agro – where flavour
                       knows no bounds.

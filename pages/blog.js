@@ -75,7 +75,7 @@ const Blog = () => {
                     <p>
                       Unveiling the Top 12 Health Benefits of Coriander Seeds
                       Coriander seeds, derived from the coriander plant
-                      (Coriandrum sativum), are not just a staple spice in
+                      (Coriandrum sativum) are not just a staple spice in
                       kitchens worldwide; they also offer an array of impressive
                       health benefits.......
                     </p>
@@ -128,7 +128,7 @@ const Blog = () => {
                       </Link>
                     </h3>
                     <p>
-                    Black pepper, commonly known as the "king of spices," is more than just a flavour enhancer in culinary dishes.....
+                    Black pepper commonly known as the "king of spices" is more than just a flavour enhancer in culinary dishes.....
                     </p>
                     {/* <a href="#" className="btn-link">
                       Continue Reading

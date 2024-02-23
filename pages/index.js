@@ -136,8 +136,8 @@ const Index = () => {
                 <div className="category-item category-item-one">
                   <h6>
                     Eros Agro is the exporter of superior quality of Super
-                    Foods.These foods are often high in fiber, antioxidants,
-                    vitamins, and minerals.
+                    Foods.These foods are often high in fiber antioxidants
+                    vitamins and minerals.
                   </h6>
                 </div>
               </div>
@@ -189,7 +189,7 @@ const Index = () => {
                     and freshness we ensure that each spice maintains its
                     natural essence providing an unforgettable sensory
                     experience with every sprinkle. Discover the essence of
-                    authentic flavours with Eros Agro's Whole Spices where
+                    authentic flavours with Eros Agros Whole Spices where
                     quality and taste converge to inspire remarkable culinary
                     creations.
                   </span>
