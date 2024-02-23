@@ -49,27 +49,27 @@ const BlogDetails = () => {
                       A short presentation of coriander seeds
                     </h3>
                     <p>
-                      Coriander seeds, derived from the coriander plant
-                      (Coriandrum sativum), are not just a staple spice in
-                      kitchens worldwide; they also offer an array of impressive
+                      Coriander seeds derived from the coriander plant
+                      (Coriandrum sativum) are not just a staple spice in
+                      kitchens worldwide they also offer an array of impressive
                       health benefits. From aiding digestion to promoting heart
-                      health, coriander seeds have been valued for their
-                      medicinal properties for centuries. Let's delve into the
+                      health coriander seeds have been valued for their
+                      medicinal properties for centuries. Lets delve into the
                       top 12 benefits of incorporating coriander seeds into your
                       diet.
                     </p>
                     <h3 className="title">Rich Source of Antioxidants:</h3>
                     <p>
                       Coriander seeds are packed with antioxidants like
-                      flavonoids, polyphenols, and vitamin C, which help combat
+                      flavonoids polyphenols and vitamin C which help combat
                       oxidative stress and prevent cellular damage caused by
                       free radicals.
                     </p>
                     <h3>Supports Digestive Health:</h3>
                     <p>
                       Coriander seeds contain compounds that promote digestive
-                      enzymes' secretion, aiding digestion and relieving
-                      gastrointestinal discomfort such as bloating, gas, and
+                      enzymes secretion aiding digestion and relieving
+                      gastrointestinal discomfort such as bloating gas and
                       indigestion.
                     </p>
                     <h3> Regulates Blood Sugar Levels</h3>
@@ -82,35 +82,35 @@ const BlogDetails = () => {
                     <h3>Anti-inflammatory Properties:</h3>
                     <p>
                       The anti-inflammatory properties of coriander seeds help
-                      reduce inflammation in the body, potentially easing
+                      reduce inflammation in the body potentially easing
                       symptoms of inflammatory conditions like arthritis and
                       inflammatory bowel disease.
                     </p>
                     <h3>Enhances Heart Health:</h3>
                     <p>
                       Coriander seeds are rich in heart-healthy nutrients like
-                      potassium, which helps regulate blood pressure, and fibre,
-                      which aids in lowering cholesterol levels, thus reducing
+                      potassium which helps regulate blood pressure and fibre
+                      which aids in lowering cholesterol levels thus reducing
                       the risk of cardiovascular diseases.
                     </p>
                     <h3> Aids Weight Loss:</h3>
                     <p>
                       The fibre content in coriander seeds promotes feelings of
-                      fullness and satiety, making them a valuable addition to
+                      fullness and satiety making them a valuable addition to
                       weight loss diets by reducing calorie intake and promoting
                       healthy weight management.
                     </p>
                     <h3> Improves Skin Health:</h3>
                     <p>
-                      Coriander seeds' detoxifying properties help purify the
+                      Coriander seeds detoxifying properties help purify the
                       blood and eliminate toxins, promoting clearer skin and
                       reducing the risk of skin conditions like acne and eczema.
                     </p>
                     <h3>Boosts Immune Function:</h3>
                     <p>
-                      The immune-boosting properties of coriander seeds,
-                      attributed to their high vitamin C content, help
-                      strengthen the body's defence mechanisms, making it more
+                      The immune-boosting properties of coriander seeds
+                      attributed to their high vitamin C content help
+                      strengthen the bodys defence mechanisms making it more
                       resilient to infections and illnesses.
                     </p>
 
@@ -119,11 +119,11 @@ const BlogDetails = () => {
                       Coriander seeds contain nutrients like vitamin K and
                       calcium, essential for maintaining brain function and
                       promoting cognitive health potentially reducing the risk
-                      of neurodegenerative diseases like Alzheimer's.
+                      of neurodegenerative diseases like Alzheimers.
                     </p>
                     <h3>Relieves Menstrual Discomfort:</h3>
                     <p>
-                      Coriander seeds' anti-inflammatory and analgesic
+                      Coriander seeds anti-inflammatory and analgesic
                       properties may help alleviate menstrual cramps and
                       discomfort providing natural relief for women during
                       their menstrual cycles.

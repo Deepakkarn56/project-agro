@@ -128,7 +128,7 @@ const Blog = () => {
                       </Link>
                     </h3>
                     <p>
-                    Black pepper commonly known as the "king of spices" is more than just a flavour enhancer in culinary dishes.....
+                    Black pepper commonly known as the king of spices is more than just a flavour enhancer in culinary dishes.....
                     </p>
                     {/* <a href="#" className="btn-link">
                       Continue Reading
