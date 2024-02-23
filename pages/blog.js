@@ -4,7 +4,7 @@ import PageBanner from "../src/components/PageBanner";
 import VideoPopup from "../src/components/VideoPopup";
 import Layout from "../src/layouts/Layout";
 import { getPagination, pagination } from "../src/utils";
-import Image from 'next/image';
+import Image from "next/image";
 
 const Blog = () => {
   let sort = 2;
@@ -14,7 +14,7 @@ const Blog = () => {
     pagination(".blog-post-item", sort, active);
     let list = document.querySelectorAll(".blog-post-item");
     setstate(getPagination(list.length, sort));
-  }, [sort,active]);
+  }, [sort, active]);
   const [video, setVideo] = useState(false);
   return (
     <Layout>
@@ -39,10 +39,10 @@ const Blog = () => {
                     </Link>
                   </div>
                   <div className="entry-content">
-                    <a href="#" className="cat-btn">
+                    {/* <a href="#" className="cat-btn">
                       22 Nov - 2022
-                    </a>
-                    <div className="post-meta">
+                    </a> */}
+                    {/* <div className="post-meta">
                       <ul>
                         <li>
                           <span>
@@ -63,20 +63,25 @@ const Blog = () => {
                           </span>
                         </li>
                       </ul>
-                    </div>
+                    </div> */}
                     <h3 className="title">
                       <Link href="/blog-details">
-                        <a>Top 12 Coriander Seeds Benefits</a>
+                        <a>
+                          Unveiling the Top 12 Health Benefits of Coriander
+                          Seeds
+                        </a>
                       </Link>
                     </h3>
                     <p>
-                      Top 12 Coriander Seeds Benefits A short presentation of
-                      coriander seeds Dried seeds or natural product got from
-                      the plant Coriandum Sativum …
+                      Unveiling the Top 12 Health Benefits of Coriander Seeds
+                      Coriander seeds, derived from the coriander plant
+                      (Coriandrum sativum), are not just a staple spice in
+                      kitchens worldwide; they also offer an array of impressive
+                      health benefits.......
                     </p>
-                    <a href="#" className="btn-link">
+                    {/* <a href="#" className="btn-link">
                       Continue Reading
-                    </a>
+                    </a> */}
                   </div>
                 </div>
                 <div className="blog-post-item blog-post-item-four mb-50 wow fadeInUp">
@@ -93,10 +98,7 @@ const Blog = () => {
                     </Link>
                   </div>
                   <div className="entry-content">
-                    <a href="#" className="cat-btn">
-                      22 Nov - 2022
-                    </a>
-                    <div className="post-meta">
+                    {/* <div className="post-meta">
                       <ul>
                         <li>
                           <span>
@@ -117,24 +119,24 @@ const Blog = () => {
                           </span>
                         </li>
                       </ul>
-                    </div>
+                    </div> */}
                     <h3 className="title">
                       <Link href="/blog-details1">
-                        <a>The Black Pepper Benefits: A Healthier You!</a>
+                        <a>
+                          Unveiling the Top 10 Health Benefits of Black Pepper
+                        </a>
                       </Link>
                     </h3>
                     <p>
-                      Dark pepper which is likewise viewed as the Ruler of
-                      flavors is having various medical advantages and one of
-                      the most noticeable …
+                    Black pepper, commonly known as the "king of spices," is more than just a flavour enhancer in culinary dishes.....
                     </p>
-                    <a href="#" className="btn-link">
+                    {/* <a href="#" className="btn-link">
                       Continue Reading
-                    </a>
+                    </a> */}
                   </div>
                 </div>
 
-                <div className="fioxen-pagination text-center wow fadeInUp">
+                {/* <div className="fioxen-pagination text-center wow fadeInUp">
                   <ul className="pagination-list">
                     <li>
                       <a
@@ -176,7 +178,7 @@ const Blog = () => {
                       </a>
                     </li>
                   </ul>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

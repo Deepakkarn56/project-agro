@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import PageBanner from "../src/components/PageBanner";
 import Layout from "../src/layouts/Layout";
-import Image from 'next/image';
+import Image from "next/image";
 
 const BlogDetails = () => {
   return (
@@ -23,7 +23,7 @@ const BlogDetails = () => {
                     />
                   </div>
                   <div className="entry-content">
-                    <div className="post-meta">
+                    {/* <div className="post-meta">
                       <ul>
                         <li>
                           <span>
@@ -44,107 +44,115 @@ const BlogDetails = () => {
                           </span>
                         </li>
                       </ul>
-                    </div>
+                    </div> */}
                     <h3 className="title">
                       A short presentation of coriander seeds
                     </h3>
                     <p>
-                      Dried seeds or natural product got from the plant
-                      Coriandum Sativum are called coriander seeds or dhaniya
-                      from the parsley family. Since old times, coriander seed
-                      has been a particular fixing utilized for culinary
-                      purposes. Coriander seeds add warm and hearty tones
-                      alongside a citrus flavor to your home-prepared food. New
-                      coriander is reviving and somewhat sweet, though, then
-                      again, coriander seeds leave hearty and tart flavor
-                      trailing sensation on the tongue.
+                      Coriander seeds, derived from the coriander plant
+                      (Coriandrum sativum), are not just a staple spice in
+                      kitchens worldwide; they also offer an array of impressive
+                      health benefits. From aiding digestion to promoting heart
+                      health, coriander seeds have been valued for their
+                      medicinal properties for centuries. Let's delve into the
+                      top 12 benefits of incorporating coriander seeds into your
+                      diet.
                     </p>
-                    <h3 className="title">
-                      Coriander seeds benefits for wellbeing:
-                    </h3>
+                    <h3 className="title">Rich Source of Antioxidants:</h3>
                     <p>
-                      The cell reinforcement properties and dietary fiber in
-                      coriander seeds assist with working on your digestion and
-                      stomach related wellbeing. It likewise proves to be useful
-                      for treating issues that are normally connected with
-                      processing, for instance, bulging, heartburn, and
-                      clogging, notwithstanding some more.
+                      Coriander seeds are packed with antioxidants like
+                      flavonoids, polyphenols, and vitamin C, which help combat
+                      oxidative stress and prevent cellular damage caused by
+                      free radicals.
                     </p>
-                    <h4>
-                      Coriander Assists with keeping up with glucose levels
-                    </h4>
+                    <h3>Supports Digestive Health:</h3>
                     <p>
-                      Coriander seeds are brimming with ethanol, known for
-                      diminishing glucose levels and consequently assist with
-                      keeping glucose levels stable. Coriander seeds likewise
-                      assist with protecting insulin action, prompting keeping
-                      up with glucose levels on a check.
+                      Coriander seeds contain compounds that promote digestive
+                      enzymes' secretion, aiding digestion and relieving
+                      gastrointestinal discomfort such as bloating, gas, and
+                      indigestion.
                     </p>
-                    <h4>Helps in Coronary illness</h4>
+                    <h3> Regulates Blood Sugar Levels</h3>
                     <p>
-                      Coriander seeds are wealthy in copper, zinc, iron, and a
-                      lot more huge minerals to raise the quantity of RBCs and
-                      lift heart wellbeing. It helps increment digestion, which
-                      supports a superior and better heart. A solid heart
-                      prompts a more joyful and fitter way of life.
+                      Research suggests that coriander seeds may help regulate
+                      blood sugar levels by increasing insulin secretion and
+                      improving glucose uptake in cells, making them beneficial
+                      for individuals with diabetes or insulin resistance.
                     </p>
-                    <h4>Keeps up with cholesterol</h4>
+                    <h3>Anti-inflammatory Properties:</h3>
                     <p>
-                      As indicated by research, coriander seeds assist with
-                      expanding HDL, i.e., great cholesterol, and decrease LDL,
-                      i.e., the awful cholesterol. Two tablespoons of coriander
-                      seeds in a glass of water consistently would assist with
-                      holding your cholesterol under wraps. Better cholesterol
-                      levels help in better heart wellbeing also.
+                      The anti-inflammatory properties of coriander seeds help
+                      reduce inflammation in the body, potentially easing
+                      symptoms of inflammatory conditions like arthritis and
+                      inflammatory bowel disease.
                     </p>
-                    <h4>Battling food contamination</h4>
+                    <h3>Enhances Heart Health:</h3>
                     <p>
-                      Coriander seeds don’t simply make your food more delicious
-                      yet additionally assist with combatting food contamination
-                      too. A synthetic called dodecenal found in coriander seeds
-                      lessens hurtful microorganisms named salmonella, which is
-                      the reason for both norm and lethal food contamination.
-                      Dodecenal has been viewed as a more powerful option in
-                      contrast to killing microorganisms than anti-infection or
-                      gentamicin utilized regularly.
+                      Coriander seeds are rich in heart-healthy nutrients like
+                      potassium, which helps regulate blood pressure, and fibre,
+                      which aids in lowering cholesterol levels, thus reducing
+                      the risk of cardiovascular diseases.
                     </p>
-                    <h4>Coriander helps for solid vision</h4>
+                    <h3> Aids Weight Loss:</h3>
                     <p>
-                      Coriander seeds are thickly plentiful in vitamin A joined
-                      by cell reinforcements that have a place with the
-                      carotenoid class, which works on your visual perception.
-                      Coriander seeds are additionally useful in repulsing
-                      conjunctivitis and advanced age-related degenerative
-                      problems in regards to vision.
+                      The fibre content in coriander seeds promotes feelings of
+                      fullness and satiety, making them a valuable addition to
+                      weight loss diets by reducing calorie intake and promoting
+                      healthy weight management.
                     </p>
-                    <h4>Coriander seeds as Against disease specialist</h4>
+                    <h3> Improves Skin Health:</h3>
                     <p>
-                      Coriander seeds have cell reinforcement and mitigating
-                      properties, which assist with lessening the development of
-                      disease cells in the stomach, prostate, colon, bosom, and
-                      lungs. Linalool found in coriander seeds influences the
-                      safe framework and assist with safeguarding crucial organs
-                      against irresistible illnesses.
+                      Coriander seeds' detoxifying properties help purify the
+                      blood and eliminate toxins, promoting clearer skin and
+                      reducing the risk of skin conditions like acne and eczema.
                     </p>
-                    <h4>Helping resistance</h4>
+                    <h3>Boosts Immune Function:</h3>
                     <p>
-                      There are cell reinforcements present in coriander seeds
-                      known for working on your resistance. Anybody with secure
-                      invulnerability can really battle free extreme harm. A
-                      solid invulnerability empowers you to overcome
-                      contaminations or sicknesses, and coriander seeds can
-                      assist you with accomplishing it.
+                      The immune-boosting properties of coriander seeds,
+                      attributed to their high vitamin C content, help
+                      strengthen the body's defence mechanisms, making it more
+                      resilient to infections and illnesses.
                     </p>
-                    <h5>
-                      To summarize everything, coriander seeds with Indian
-                      flavors make your food more delicious and assist you with
-                      forestalling a plenty of infections as it is brimming with
-                      significant and sound supplements. From solid skin to
-                      forestalling heart illnesses, coriander seeds offer
-                      plentiful advantages to your body. Consuming a sound
-                      measure of coriander seeds might actually be great for
-                      your wellbeing.
-                    </h5>
+
+                    <h3>Supports Brain Health:</h3>
+                    <p>
+                      Coriander seeds contain nutrients like vitamin K and
+                      calcium, essential for maintaining brain function and
+                      promoting cognitive health, potentially reducing the risk
+                      of neurodegenerative diseases like Alzheimer's.
+                    </p>
+                    <h3>Relieves Menstrual Discomfort:</h3>
+                    <p>
+                      Coriander seeds' anti-inflammatory and analgesic
+                      properties may help alleviate menstrual cramps and
+                      discomfort, providing natural relief for women during
+                      their menstrual cycles.
+                    </p>
+                    <h3>Promotes Eye Health:</h3>
+                    <p>
+                      The vitamin A content in coriander seeds supports eye
+                      health by promoting good vision, reducing the risk of
+                      age-related macular degeneration, and protecting the eyes
+                      from oxidative damage.
+                    </p>
+                    <h3>Alleviates Anxiety and Improves Sleep:</h3>
+                    <p>
+                      Coriander seeds contain compounds like linalool, known for
+                      their calming and sedative effects, which may help reduce
+                      anxiety levels, promote relaxation, and improve sleep
+                      quality.
+                    </p>
+                    <h3>Conclusion:</h3>
+                    <p>
+                      From aiding digestion to promoting heart health and
+                      relieving menstrual discomfort, the benefits of coriander
+                      seeds are truly remarkable. Incorporating these versatile
+                      seeds into your diet can contribute to overall health and
+                      well-being. Whether consumed whole, ground, or as a
+                      flavorful spice in cooking, harness the power of coriander
+                      seeds to unlock their full potential and enjoy a healthier
+                      lifestyle.
+                    </p>
                   </div>
                 </div>
                 <div className="post-navigation">
@@ -155,7 +163,7 @@ const BlogDetails = () => {
                   </div>
                 </div>
 
-                <div className="comments-respond">
+                {/* <div className="comments-respond">
                   <h4 className="comments-heading mb-20">Write a Review</h4>
                   <form onSubmit={(e) => e.preventDefault()}>
                     <div className="row">
@@ -215,7 +223,7 @@ const BlogDetails = () => {
                       </div>
                     </div>
                   </form>
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="col-lg-4">

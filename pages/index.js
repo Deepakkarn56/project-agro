@@ -180,11 +180,18 @@ const Index = () => {
                   </h3>
 
                   <span className="price">
-                    Eros Agro is the exporter of superior quality of whole
-                    spices. We always strive to keep the natural taste and
-                    fragrance of product intact. Our whole spices packages are
-                    of best quality so that it lets you feel its richness as you
-                    open the pack.
+                    Eros Agro offers an exquisite array of Whole Spices
+                    meticulously sourced and selected for their superior quality
+                    and intense flavour profiles. From the rich warmth of whole
+                    cumin seeds to the vibrant aroma of whole cardamom pods our
+                    collection promises to elevate every dish to new heights of
+                    culinary excellence. With a steadfast commitment to purity
+                    and freshness we ensure that each spice maintains its
+                    natural essence providing an unforgettable sensory
+                    experience with every sprinkle. Discover the essence of
+                    authentic flavours with Eros Agro's Whole Spices where
+                    quality and taste converge to inspire remarkable culinary
+                    creations.
                   </span>
                 </div>
               </div>
@@ -212,11 +219,17 @@ const Index = () => {
                   </h3>
 
                   <span className="price">
-                    Eros Agro is the exporter of premium quality, Sortex,
-                    carefully macine cleaned natural sesame seeds. The packs of
-                    natural sesame seeds ensure good health and purity with
-                    itself. We have made to satiate the goodness of sesame seeds
-                    at customer end.
+                    Eros Agro presents a premium selection of Oil Seeds sourced
+                    from the finest regions to bring exceptional quality to your
+                    table. Our meticulously chosen seeds offer a wealth of
+                    nutritional benefits and culinary versatility perfect for
+                    enhancing a variety of dishes. From the rich texture of
+                    sesame seeds to the wholesome goodness of sunflower seeds
+                    each variety is packed with flavour and freshness. With our
+                    commitment to quality and purity you can trust Eros Agro to
+                    deliver oil seeds that meet the highest standards of
+                    excellence. Elevate your cooking experience with our premium
+                    Oil Seeds and unlock a world of culinary possibilities.
                   </span>
                 </div>
               </div>
@@ -244,10 +257,18 @@ const Index = () => {
                   </h3>
 
                   <span className="price">
-                    Eros Agro is the exporter of fresh blended spices of best
-                    quality. They are packed in tamper proof container so that
-                    the freshness is totally sealed.A blend is a mixture of
-                    different spices, herbs, and other flavorings.
+                    Eros Agro presents an exquisite range of Blended Spices
+                    expertly crafted to add depth and complexity to your
+                    culinary creations. Our blends combine premium ingredients
+                    in perfect harmony offering a symphony of flavours that
+                    delight the palate. From traditional favourites to
+                    innovative blends each spice mixture is carefully curated to
+                    deliver a unique and unforgettable taste experience. With
+                    Eros Agro's commitment to quality and authenticity you can
+                    trust that every blend will elevate your dishes to new
+                    heights of flavour sophistication. Explore the artistry of
+                    spice blending with Eros Agro where every blend tells a
+                    story of culinary excellence.
                   </span>
                 </div>
               </div>

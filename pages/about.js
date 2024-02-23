@@ -3,7 +3,7 @@ import React from "react";
 import PageBanner from "../src/components/PageBanner";
 import TestimoinalSlider from "../src/components/Slider/TestimonialSlider";
 import Layout from "../src/layouts/Layout";
-import Image from 'next/image';
+import Image from "next/image";
 
 const About = () => {
   return (
@@ -24,74 +24,66 @@ const About = () => {
                     />
                   </div>
                   <div className="entry-content">
-                    <div className="post-meta"></div>
+                    <div className="post-meta post-metas">
+                      About Us
+                    </div>
 
                     <p>
-                      Introducing Eros Agro: Your Gateway to Exceptional Spices!
-                      At Eros Agro, we take immense pride in our passion for
-                      spices. As an esteemed exporter of high-quality spices, we
-                      are dedicated to delivering aromatic flavors from around
-                      the world to your doorstep. Our mission is to provide you
-                      with a delightful culinary experience, infusing your
-                      recipes with the essence of authentic spices.
+                      Introducing Eros Agro: Your Gateway to Exceptional Spice
+                      Experiences! Embark on a culinary journey like no other
+                      with Eros Agro, where every spice tells a story of
+                      flavour, tradition, and excellence. With a heartfelt
+                      passion for spices, we curate a selection of the finest
+                      offerings from around the globe, delivering an
+                      unparalleled sensory experience to your kitchen.
                     </p>
 
                     <p>
-                      With a rich heritage in the spice trade and a commitment
-                      to excellence, we have established ourselves as a trusted
-                      partner for customers worldwide. We meticulously source
-                      our spices from renowned regions known for their unique
-                      flavors and traditional cultivation methods. Our extensive
-                      network of suppliers ensures that we only procure the
-                      finest spices, handpicked and processed with utmost care.
+                      Our commitment to quality is unwavering. Each spice is
+                      handpicked from renowned regions known for their rich
+                      culinary heritage and cultivated using time-honoured
+                      methods. From the sun-kissed fields of India to the lush
+                      valleys of the Mediterranean, our spices capture the
+                      essence of their origins, infusing your dishes with
+                      authenticity and depth of flavour.
                     </p>
 
                     <p>
-                      Quality is our utmost priority. Each spice we export
-                      undergoes rigorous quality checks and is handled by
-                      experienced professionals who understand the significance
-                      of maintaining the integrity of the product. From the
-                      farms to our state-of-the-art processing facilities, we
-                      adhere to strict quality control measures to preserve the
-                      natural goodness and vibrant flavors of the spices.
+                      At Eros Agro, we understand that great cooking starts with
+                      great ingredients. That's why we go to great lengths to
+                      ensure that our spices are of the highest quality, from
+                      sourcing to processing. Our state-of-the-art facilities
+                      adhere to strict quality control standards, preserving the
+                      freshness and potency of every spice.
                     </p>
 
                     <p>
-                      Our product range spans an array of spices, encompassing a
-                      diverse selection of herbs, powders, blends, and whole
-                      spices. Whether you seek the warmth of exotic Indian
-                      spices, the tang of Mediterranean herbs, or the zest of
-                      Southeast Asian flavors, we have the perfect spice to
-                      tantalize your taste buds. From cumin, turmeric, and
-                      paprika to cardamom, cinnamon, and cloves, our catalog
-                      showcases an extensive collection of spices to elevate
-                      your culinary creations.
+                      Our range of products is as diverse as the cuisines they
+                      enhance. Whether you're a fan of bold, fiery spices or
+                      prefer the delicate balance of aromatic blends, we have
+                      something for every palate. Explore our collection of
+                      whole spices, ground powders, and signature blends, each
+                      crafted to elevate your culinary creations to new heights.
                     </p>
 
                     <p>
-                      As a customer-centric organization, we understand the
-                      importance of personalized service and timely delivery.
-                      Our experienced team ensures seamless order processing,
-                      meticulous packaging, and efficient logistics,
-                      guaranteeing that your spices reach you in pristine
-                      condition and within the designated timeframe. Moreover,
-                      we recognize the significance of sustainability and
-                      responsible sourcing. We work closely with our suppliers
-                      to promote ethical practices, fair trade, and
-                      environmentally friendly cultivation methods. By choosing
-                      our spices, you not only experience exceptional flavors
-                      but also support sustainable and responsible agriculture.
-                      Whether you are a professional chef, a food enthusiast, or
-                      a distributor seeking premium spices,{" "}
-                      <strong>Eros Agro</strong> is your trusted partner. Join
-                      us on a flavorful journey as we bring the world’s finest
-                      spices to your kitchen, adding an aromatic touch to your
-                      dishes and transforming ordinary meals into extraordinary
-                      experiences. Discover the essence of culinary excellence
-                      with <strong>Eros Agro</strong>. Contact us today to
-                      explore our wide range of exceptional spices and unlock a
-                      world of flavors. Together, let’s spice up your culinary
-                      adventures!
+                      But our commitment doesn't end with quality products. We
+                      strive to provide exceptional service every step of the
+                      way. Our knowledgeable team is here to assist you in
+                      selecting the perfect spices for your needs, offering
+                      personalised recommendations and culinary inspiration. And
+                      because we believe in giving back to the communities that
+                      nurture our spices, we are dedicated to sustainability and
+                      ethical sourcing practices. By choosing Eros Agro, you're
+                      not just adding flavour to your dishes – you're supporting
+                      responsible agriculture and fair trade initiatives around
+                      the world. Whether you're a home cook looking to spice up
+                      your meals or a professional chef seeking the finest
+                      ingredients, Eros Agro is your trusted partner in flavour.
+                      Join us on a journey of culinary discovery, where every
+                      spice tells a story and every meal is a masterpiece.
+                      Experience the difference with Eros Agro – where flavour
+                      knows no bounds.
                     </p>
                   </div>
                 </div>
