@@ -17,7 +17,7 @@ const RedChilliPowder = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/turmeric.jpg"
-                alt="Blog Image"
+                alt="Turmeric Powder"
                 width={450}
                 height={250}
               />

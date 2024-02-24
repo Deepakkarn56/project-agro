@@ -17,7 +17,7 @@ const Chilliflak = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/Chilli Flakess.png"
-                alt="Blog Image"
+                alt="Chili flakes"
                 width={450}
                 height={250}
               />

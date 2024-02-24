@@ -17,7 +17,7 @@ const GreenMilletBajra = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/green_millet.jpg"
-                alt="Kalonji"
+                alt="Green Millet Bajra"
                 width={450}
                 height={250}
               />

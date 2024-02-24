@@ -16,7 +16,7 @@ const turmerics = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/Turmerics.png"
-                alt="blackpepper"
+                alt="Turmeric"
                 width={450}
                 height={250}
               />

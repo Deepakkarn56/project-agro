@@ -17,7 +17,7 @@ const CuminCorianderPowder = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/CuminCorianderPowder.png"
-                alt="Blog Image"
+                alt="Coriander Powder"
                 width={450}
                 height={250}
               />

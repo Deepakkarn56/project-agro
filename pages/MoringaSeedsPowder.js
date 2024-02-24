@@ -17,7 +17,7 @@ const MoringaSeedsPowder = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/Moringa.png"
-                alt="Blog Image"
+                alt="Leafs Powder"
                 width={450}
                 height={250}
               />

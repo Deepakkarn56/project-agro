@@ -16,7 +16,7 @@ const BayLeaves = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/BayLeaves.png"
-                alt="Blog Image"
+                alt="Bay Leaves"
                 width={450}
                 height={250}
               />

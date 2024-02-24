@@ -16,7 +16,7 @@ const QuinoaSeeds = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/QuinoaSeeds.png"
-                alt="Blog Image"
+                alt="Quinoa Seeds"
                 width={450}
                 height={250}
               />

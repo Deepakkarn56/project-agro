@@ -16,7 +16,7 @@ const Clovess = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/cloves.jpg"
-                alt="blackpepper"
+                alt="Cloves"
                 width={450}
                 height={250}
               />

@@ -18,7 +18,7 @@ const AjwainSeeds = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/ajwain.jpg"
-                alt="Blog Image"
+                alt="Ajwain Seeds"
                 width={450}
                 height={250}
               />

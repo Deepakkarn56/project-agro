@@ -17,7 +17,7 @@ const SweetPotato = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/allu.png"
-                alt="Kalonji"
+                alt="Sweet Potato"
                 width={400}
                 height={200}
               />

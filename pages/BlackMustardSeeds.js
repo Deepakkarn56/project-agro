@@ -17,7 +17,7 @@ const BlackMustardSeeds = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/BlackMustardSeeds.png"
-                alt="Kalonji"
+                alt="Black Mustard Seeds"
                 width={450}
                 height={250}
               />

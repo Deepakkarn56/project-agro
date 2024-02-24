@@ -17,7 +17,7 @@ const CuminSeeds = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/Cumin.jpg"
-                alt="blackpepper"
+                alt="Cumin Seeds"
                 width={450}
                 height={250}
               />

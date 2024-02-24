@@ -17,7 +17,7 @@ const Kalonji = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/Kalonji.png"
-                alt="Kalonji"
+                alt="Black Cumin"
                 width={450}
                 height={250}
               />

@@ -17,7 +17,7 @@ const MixedBerry = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/berry.png"
-                alt="Kalonji"
+                alt="Mixed Berry"
                 width={450}
                 height={250}
               />

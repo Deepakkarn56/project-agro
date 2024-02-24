@@ -18,7 +18,7 @@ const PepperMint = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/papermint.png"
-                alt="Blog Image"
+                alt="PepperMint"
                 width={450}
                 height={250}
               />

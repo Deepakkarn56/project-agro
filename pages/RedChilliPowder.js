@@ -17,7 +17,7 @@ const RedChilliPowder = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/Redchilli.jpg"
-                alt="Blog Image"
+                alt="Red Chilli Powder"
                 width={450}
                 height={250}
               />

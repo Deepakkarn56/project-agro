@@ -17,7 +17,7 @@ const HulledSesameSeeds = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/Hulled Sesame Seeds.png"
-                alt="Kalonji"
+                alt="Hulled Sesame Seeds"
                 width={450}
                 height={250}
               />

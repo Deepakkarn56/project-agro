@@ -17,7 +17,7 @@ const NaturalAlmonds = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/almond.jpg"
-                alt="Kalonji"
+                alt="Natural Almonds"
                 width={450}
                 height={250}
               />

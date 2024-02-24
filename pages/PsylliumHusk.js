@@ -16,7 +16,7 @@ const PsylliumHusk = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/PsylliumHusk.png"
-                alt="Blog Image"
+                alt="Psyllium Husk"
                 width={450}
                 height={250}
               />

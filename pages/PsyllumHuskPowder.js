@@ -17,7 +17,7 @@ const PsyllumHuskPowder = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/psyllum.jpg"
-                alt="Kalonji"
+                alt="Psyllum Husk & Powder"
                 width={450}
                 height={250}
               />

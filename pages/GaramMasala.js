@@ -17,7 +17,7 @@ const GaramMasala = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/GaramMasala.png"
-                alt="Blog Image"
+                alt="Garam Masala"
                 width={450}
                 height={250}
               />

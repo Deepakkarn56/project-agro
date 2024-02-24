@@ -17,7 +17,7 @@ const BlackPepperPowder = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/blackpowders.png"
-                alt="Blog Image"
+                alt="Black Pepper Powder"
                 width={450}
                 height={250}
               />

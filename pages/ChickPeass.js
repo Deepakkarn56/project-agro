@@ -17,7 +17,7 @@ const ChickPeass = () => {
             <div className="post-thumbnail">
               <Image
                 src="/assets/images/spices/chickpeas.jpg"
-                alt="Kalonji"
+                alt="Chick Peas"
                 width={450}
                 height={250}
               />
