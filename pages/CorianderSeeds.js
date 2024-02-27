@@ -15,7 +15,7 @@ const CorianderSeeds = () => {
           <div className="main-contents">
             <div className="post-thumbnail">
               <Image
-                src="/assets/images/spices/coriander.jpg"
+                src="/assets/images/spices/CorianderSeedsss.jpg"
                 alt="Coriander Seeds"
                 width={450}
                 height={250}

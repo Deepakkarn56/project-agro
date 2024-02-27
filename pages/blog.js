@@ -30,10 +30,10 @@ const Blog = () => {
                     <Link href="/blog-details">
                       <a>
                         <Image
-                          src="/assets/images/spices/top_12.jpg"
+                          src="/assets/images/spices/freshhubs.jpg"
                           alt="Blog Image"
-                          width={800}
-                          height={500}
+                          width={900}
+                          height={600}
                         />
                       </a>
                     </Link>
@@ -66,22 +66,20 @@ const Blog = () => {
                     </div> */}
                     <h3 className="title">
                       <Link href="/blog-details">
-                        <a>
-                          Unveiling the Top 12 Health Benefits of Coriander
-                          Seeds
-                        </a>
+                        <a>The Health Benefits of Cooking with Fresh Herbs: A Guide from Eros Agro</a>
                       </Link>
                     </h3>
                     <p>
-                      Unveiling the Top 12 Health Benefits of Coriander Seeds
-                      Coriander seeds, derived from the coriander plant
-                      (Coriandrum sativum) are not just a staple spice in
-                      kitchens worldwide; they also offer an array of impressive
-                      health benefits.......
+                    In the realm of culinary exploration, fresh herbs stand out as vibrant gems, not only for their aromatic flavours but also for their remarkable health benefits....
                     </p>
-                    {/* <a href="#" className="btn-link">
+                    <Link  href="/blog-details">
+                      <a className="btn-link">
                       Continue Reading
-                    </a> */}
+                      </a>
+                   
+                    </Link>
+                    
+                    
                   </div>
                 </div>
                 <div className="blog-post-item blog-post-item-four mb-50 wow fadeInUp">
@@ -89,15 +87,18 @@ const Blog = () => {
                     <Link href="/blog-details">
                       <a>
                         <Image
-                          src="/assets/images/spices/black_pepper_powder.jpg"
+                          src="/assets/images/spices/spiceblendings.jpg"
                           alt="Blog Image"
-                          width={800}
-                          height={500}
+                          width={900}
+                          height={600}
                         />
                       </a>
                     </Link>
                   </div>
                   <div className="entry-content">
+                    {/* <a href="#" className="cat-btn">
+                      22 Nov - 2022
+                    </a> */}
                     {/* <div className="post-meta">
                       <ul>
                         <li>
@@ -122,21 +123,78 @@ const Blog = () => {
                     </div> */}
                     <h3 className="title">
                       <Link href="/blog-details1">
-                        <a>
-                          Unveiling the Top 10 Health Benefits of Black Pepper
-                        </a>
+                        <a>The Art of Spice Blending: Tips and Tricks from Eros Agro's Experts</a>
                       </Link>
                     </h3>
                     <p>
-                    Black pepper commonly known as the king of spices is more than just a flavour enhancer in culinary dishes.....
+                    Spice blending is a centuries-old culinary tradition that adds depth, complexity, and character to dishes from around the world.....
                     </p>
-                    {/* <a href="#" className="btn-link">
+                    <Link href= "/blog-details1">
+                    <a  className="btn-link">
                       Continue Reading
+                    </a>
+                    </Link>
+                   
+                  </div>
+                </div>
+                {/* new */}
+                <div className="blog-post-item blog-post-item-four mb-50 wow fadeInUp">
+                  <div className="post-thumbnail">
+                    <Link href="/blog-details">
+                      <a>
+                        <Image
+                          src="/assets/images/spices/corniderss.jpg"
+                          alt="Blog Image"
+                          width={900}
+                          height={600}
+                        />
+                      </a>
+                    </Link>
+                  </div>
+                  <div className="entry-content">
+                    {/* <a href="#" className="cat-btn">
+                      22 Nov - 2022
                     </a> */}
+                    <div className="post-meta">
+                      {/* <ul>
+                        <li>
+                          <span>
+                            <i className="ti-user" />
+                            <a href="#">Eros_Spices</a>
+                          </span>
+                        </li>
+                        <li>
+                          <span>
+                            <i className="ti-comments-smiley" />
+                            <a href="#">No Comments</a>
+                          </span>
+                        </li>
+                        <li>
+                          <span>
+                            <i className="ti-menu" />
+                            <a href="#">Uncategorized</a>
+                          </span>
+                        </li>
+                      </ul> */}
+                    </div>
+                    <h3 className="title">
+                      <Link href="/blog-details3">
+                        <a>Unlocking the Power of Cumin: Culinary Uses and Health Properties</a>
+                      </Link>
+                    </h3>
+                    <p>
+                    Cumin with its warm and earthy flavour has been a staple spice in kitchens around the world for centuries. 
+                    </p>
+                    <Link href= "blog-details3">
+                    <a className="btn-link">
+                      Continue Reading
+                    </a>
+                    </Link>
+                   
                   </div>
                 </div>
 
-                {/* <div className="fioxen-pagination text-center wow fadeInUp">
+                <div className="fioxen-pagination text-center wow fadeInUp">
                   <ul className="pagination-list">
                     <li>
                       <a
@@ -178,7 +236,9 @@ const Blog = () => {
                       </a>
                     </li>
                   </ul>
-                </div> */}
+                </div>
+
+              
               </div>
             </div>
           </div>

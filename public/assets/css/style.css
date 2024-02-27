@@ -1295,7 +1295,7 @@ button {
 .hero-wrapper-one:after {
   width: 43.5%;
   right: 0;
-  background: url(../images/spices/spices.jpg) no-repeat center center;
+  background: url(../images/spices/allinone.jpg) no-repeat center center;
   background-size: cover;
 }
 @media (max-width: 991px) {
@@ -2991,6 +2991,36 @@ h3.title {
   color: white;
 
 }
+
+/* index styling */
+.intros{
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.headings {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.headings h2 {
+  font-size: 40px;
+  color: #333;
+}
+
+.contents {
+  line-height: 1.6;
+}
+
+.contents p {
+  margin-bottom: 5px;
+}
+
+
 /* start */
 .bodys {
   font-family: Arial, sans-serif;

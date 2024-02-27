@@ -28,14 +28,15 @@ const Index = () => {
             <div className="row">
               <div className="col-lg-8">
                 <div className="hero-content">
-                  <h2 className="wow fadeInUp mb-0" data-wow-delay="20ms">
-                    Welcome to Eros Agro!
-                  </h2>
-                  <h4 className="wow fadeInDown p-3">
-                    We are a leading spice export
-                    <h4>company dedicated to bringing</h4>
-                    you the finest quality spices from around the world.
-                  </h4>
+                  <h3 className="wow fadeInUp mb-0" data-wow-delay="20ms">
+                    "Experience the World's Flavors
+                  </h3>
+                  <h3 className="wow fadeInDown">
+                    with Eros Agro - Where Quality Spices Meet
+                    <h4>
+                      Global Excellence!"  below the welcome to  eros agro!.
+                    </h4>
+                  </h3>
 
                   <p className="tags">
                     <span>Popular Categories:</span>
@@ -50,7 +51,152 @@ const Index = () => {
       </section>
       {/* <!--====== End Hero Section ======--> */}
       {/* <!--====== Start Category Section ======--> */}
-      <section className="category-area">
+
+      {/* intro */}
+      <div className="intros">
+        <div className="headings">
+          <h2>Welcome to Eros Agro</h2>
+        </div>
+        <div className="contents">
+          <p>
+            As a premier spice export company, we are dedicated to providing you
+            with the finest quality spices sourced from around the globe. Our
+            extensive network of trusted manufacturers ensures that we bring you
+            spices renowned for their rich flavours, exceptional aroma, and
+            superior quality.
+          </p>
+          <p>
+            At Eros Agro, excellence is our commitment at every step of the
+            process. From meticulous selection and processing to stringent
+            quality control measures, we strive for perfection in every batch we
+            deliver. Whether you're a wholesaler, distributor, or retailer, our
+            diverse range of spices is sure to tantalise taste buds and elevate
+            culinary experiences to new heights.
+          </p>
+          <p>
+            Join us at Eros Agro, where flavour meets global excellence, and let
+            us embark on a journey of culinary delight together.
+          </p>
+        </div>
+      </div>
+      {/* newwwwwww  three cardsss*/}
+      <section className="listing-grid-area pt-50 ">
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-lg-8">
+              <div className="section-title text-center mb-75 wow fadeInUp">
+                <h2>Flavorful Nutritional Trio</h2>
+              </div>
+            </div>
+          </div>
+          <div className="row rowss">
+            {/* Existing Card  1 */}
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
+              <div
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items"
+                data-wow-delay="10ms"
+              >
+                <div className="listing-thumbnail">
+                  <Image
+                    src="/assets/images/spices/spice.png"
+                    alt="Listing Image"
+                    width={800}
+                    height={700}
+                  />
+                  <span className="featured-btn">Featured</span>
+                </div>
+                <div className="listing-content contents">
+                  <h3 className="title">
+                    <Link href="/spices">
+                      <a>Spices</a>
+                    </Link>
+                  </h3>
+                  <span className="price">
+                    Explore a world of culinary delight with Eros Agro's premium
+                    spices. From the rich aroma of whole cloves to the fiery
+                    kick of ground chili, our carefully curated selection
+                    guarantees to enhance every dish with exceptional flavor and
+                    quality. Elevate your cooking experience with Eros Agro
+                    spices, sourced from the finest growers around the globe.
+                  </span>
+                </div>
+              </div>
+            </div>
+            {/* Existing Card 2 */}
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
+              <div
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items"
+                data-wow-delay="20ms"
+              >
+                <div className="listing-thumbnail">
+                  <Image
+                    src="/assets/images/spices/herbs.png"
+                    alt="Listing Image"
+                    width={800}
+                    height={700}
+                  />
+                  <span className="featured-btn">Featured</span>
+                </div>
+                <div className="listing-content">
+                  <h3 className="title">
+                    <Link href="/herbs">
+                      <a>herbs</a>
+                    </Link>
+                  </h3>
+                  <span className="price">
+                    Embrace the essence of nature's green treasures with Eros
+                    Agro's diverse assortment of herbs. From the soothing
+                    properties of chamomile to the aromatic allure of basil, our
+                    collection promises to infuse your culinary creations and
+                    wellness rituals with freshness and flavor. Explore the
+                    world of herbs with Eros Agro, where each leaf tells a story
+                    of pure botanical bliss.
+                  </span>
+                </div>
+              </div>
+            </div>
+            {/* Existing Card 3 */}
+            <div className="col-lg-4 col-md-6 col-sm-12 sizess">
+              <div
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items"
+                data-wow-delay="30ms"
+              >
+                <div className="listing-thumbnail">
+                  <Image
+                    src="/assets/images/spices/superfoods.png"
+                    alt="Listing Image"
+                    width={800}
+                    height={700}
+                  />
+                  <span className="featured-btn">Featured</span>
+                </div>
+                <div className="listing-content">
+                  <h3 className="title">
+                    <Link href="/superfood">
+                      <a>SuperFoods</a>
+                    </Link>
+                  </h3>
+                  <span className="price">
+                    Revitalize your body and mind with Eros Agro's premium
+                    selection of superfoods. From the antioxidant-rich goodness
+                    of acai berries to the energy-boosting power of maca powder,
+                    our range offers an array of nutrient-packed options to fuel
+                    your wellness journey. Experience the transformative
+                    benefits of superfoods with Eros Agro, sourced with care and
+                    crafted for your vitality.
+                  </span>
+                </div>
+              </div>
+            </div>
+            {/* New Card 4 (Duplicate of Existing Card) */}
+
+            {/* card 6 */}
+          </div>
+        </div>
+      </section>
+
+      {/* spices Menus */}
+      {/* <section className="category-area">
         <div className="container">
           <div className="category-wrapper-one wow fadeInDown">
             <div className="row no-gutters">
@@ -77,9 +223,12 @@ const Index = () => {
               <div className="col-lg-2 col-md-4 category-column">
                 <div className="category-item category-item-one">
                   <h6>
-                    Eros Agro is the exporter of superior quality of whole
-                    spices.Eros Agro-Spices offers their products in both powder
-                    and granule form
+                    Explore a world of culinary delight with Eros Agro's premium
+                    spices. From the rich aroma of whole cloves to the fiery
+                    kick of ground chili, our carefully curated selection
+                    guarantees to enhance every dish with exceptional flavor and
+                    quality. Elevate your cooking experience with Eros Agro
+                    spices, sourced from the finest growers around the globe.
                   </h6>
                 </div>
               </div>
@@ -106,9 +255,13 @@ const Index = () => {
               <div className="col-lg-2 col-md-4 category-column">
                 <div className="category-item category-item-one">
                   <h6>
-                    Eros Agro is the exporter of superior quality of green
-                    Herbs.They have been used in natural medicine for thousands
-                    of years
+                    Embrace the essence of nature's green treasures with Eros
+                    Agro's diverse assortment of herbs. From the soothing
+                    properties of chamomile to the aromatic allure of basil, our
+                    collection promises to infuse your culinary creations and
+                    wellness rituals with freshness and flavor. Explore the
+                    world of herbs with Eros Agro, where each leaf tells a story
+                    of pure botanical bliss.
                   </h6>
                 </div>
               </div>
@@ -135,16 +288,21 @@ const Index = () => {
               <div className="col-lg-2 col-md-4 category-column">
                 <div className="category-item category-item-one">
                   <h6>
-                    Eros Agro is the exporter of superior quality of Super
-                    Foods.These foods are often high in fiber antioxidants
-                    vitamins and minerals.
+                     Revitalize your body and mind with Eros Agro's premium
+                    selection of superfoods. From the antioxidant-rich goodness
+                    of acai berries to the energy-boosting power of maca powder,
+                    our range offers an array of nutrient-packed options to fuel
+                    your wellness journey. Experience the transformative
+                    benefits of superfoods with Eros Agro, sourced with care and
+                    crafted for your vitality
                   </h6>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
+
       {/* <!--====== End Category Section ======--> */}
       {/* <!--====== Start Listing Section ======--> */}
       <section className="listing-grid-area">
@@ -164,7 +322,7 @@ const Index = () => {
               >
                 <div className="listing-thumbnail">
                   <Image
-                    src="/assets/images/spices/wholespices.png"
+                    src="/assets/images/spices/wholespices.jpg"
                     alt="Listing Image"
                     width={800}
                     height={700}
