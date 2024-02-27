@@ -140,7 +140,7 @@ const Index = () => {
                 <div className="listing-content">
                   <h3 className="title">
                     <Link href="/herbs">
-                      <a>herbs</a>
+                      <a>Herbs</a>
                     </Link>
                   </h3>
                   <span className="price">
