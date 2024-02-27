@@ -107,7 +107,7 @@ const BlogDetails3 = () => {
                       Several studies have suggested that cumin may help
                       regulate blood sugar levels and improve insulin
                       sensitivity making it potentially beneficial for
-                      individuals with diabetes or insulin resistance. Cumin's
+                      individuals with diabetes or insulin resistance. Cumins
                       ability to enhance glucose uptake in cells and inhibit the
                       activity of certain enzymes involved in carbohydrate
                       metabolism may contribute to its blood sugar-lowering
@@ -119,7 +119,7 @@ const BlogDetails3 = () => {
                       weight management. Some research indicates that cumin
                       supplementation may lead to reductions in body weight
                       body fat and waist circumference. These effects may be
-                      attributed to cumin's ability to increase metabolic rate
+                      attributed to cumins ability to increase metabolic rate
                       and promote fat loss as well as its appetite-suppressing
                       properties.
                     </p>

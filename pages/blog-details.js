@@ -75,7 +75,7 @@ const BlogDetails = () => {
                     </p>
                     <h3>A Boost for Your Immune System:</h3>
                     <p>
-                      In today's fast-paced world maintaining a strong immune
+                      In todays fast-paced world maintaining a strong immune
                       system is more important than ever. Fortunately fresh
                       herbs can lend a helping hand in bolstering your bodys
                       defences. Many herbs such as thyme and oregano possess

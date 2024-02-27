@@ -29,12 +29,12 @@ const Index = () => {
               <div className="col-lg-8">
                 <div className="hero-content">
                   <h3 className="wow fadeInUp mb-0" data-wow-delay="20ms">
-                    " Experience the Worlds Flavors
+                    Experience the Worlds Flavors
                   </h3>
                   <h3 className="wow fadeInDown">
                     with Eros Agro - Where Quality Spices Meet
                     <h4>
-                      Global Excellence! " below the welcome to  eros agro!.
+                      Global Excellence!  below the welcome to  eros agro!.
                     </h4>
                   </h3>
 

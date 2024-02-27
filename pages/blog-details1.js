@@ -70,7 +70,7 @@ const BlogDetails1 = () => {
                     <h4>Experimentation is Key:</h4>
                     <p>
                       One of the joys of spice blending is the opportunity for
-                      experimentation. Don't be afraid to get creative and try
+                      experimentation. Do not be afraid to get creative and try
                       out different combinations of spices to find the perfect
                       blend for your palate. Start with small batches and adjust
                       the ratios of spices until you achieve the desired flavour
