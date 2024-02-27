@@ -29,12 +29,12 @@ const Index = () => {
               <div className="col-lg-8">
                 <div className="hero-content">
                   <h3 className="wow fadeInUp mb-0" data-wow-delay="20ms">
-                    "Experience the World's Flavors
+                    " Experience the Worlds Flavors
                   </h3>
                   <h3 className="wow fadeInDown">
                     with Eros Agro - Where Quality Spices Meet
                     <h4>
-                      Global Excellence!  below the welcome to  eros agro!.
+                      Global Excellence! " below the welcome to  eros agro!.
                     </h4>
                   </h3>
 
@@ -69,7 +69,7 @@ const Index = () => {
             At Eros Agro, excellence is our commitment at every step of the
             process. From meticulous selection and processing to stringent
             quality control measures we strive for perfection in every batch we
-            deliver. Whether you're a wholesaler distributor or retailer our
+            deliver. Whether you are a wholesaler distributor or retailer our
             diverse range of spices is sure to tantalise taste buds and elevate
             culinary experiences to new heights.
           </p>
@@ -145,7 +145,7 @@ const Index = () => {
                   </h3>
                   <span className="price">
                     Embrace the essence of natures green treasures with Eros
-                    Agro's diverse assortment of herbs. From the soothing
+                    Agros diverse assortment of herbs. From the soothing
                     properties of chamomile to the aromatic allure of basil our
                     collection promises to infuse your culinary creations and
                     wellness rituals with freshness and flavor. Explore the

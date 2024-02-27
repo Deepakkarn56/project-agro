@@ -23,7 +23,7 @@ const BlogDetails1 = () => {
                     />
                   </div>
                   <div className="entry-content">
-                    <div className="post-meta ">
+                    <div className="post-meta">
                       <h3 className="post-metas">Spice Blending</h3>
                       <ul>
                         {/* <li>
@@ -59,7 +59,7 @@ const BlogDetails1 = () => {
 
                     <h4>Understanding Flavour Profiles:</h4>
                     <p>
-                      Before diving into the world of spice blending it's
+                      Before diving into the world of spice blending its
                       essential to understand the concept of flavour profiles.
                       Each spice brings its unique flavour characteristics
                       ranging from warm and earthy to bright and citrusy. By

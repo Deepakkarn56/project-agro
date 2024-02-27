@@ -132,7 +132,7 @@ const BlogDetails = () => {
                       At Eros Agro we are passionate about sharing the wonders
                       of fresh herbs with our customers and we encourage you to
                       embark on your own culinary journey with these nutritional
-                      powerhouses. So next time you're in the kitchen dont
+                      powerhouses. So next time you are in the kitchen dont
                       hesitate to reach for a handful of fresh herbs – your
                       taste buds and your body will thank you for it.
                     </p>

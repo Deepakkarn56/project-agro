@@ -59,7 +59,7 @@ const BlogDetails3 = () => {
 
                     <h4>Culinary Uses of Cumin:</h4>
                     <p>
-                      Cumin's distinct flavour profile makes it a versatile
+                      Cumins distinct flavour profile makes it a versatile
                       spice that can be used in a wide range of dishes. Commonly
                       used in both whole and ground form cumin adds depth and
                       warmth to soups stews curries and rice dishes. It pairs
@@ -133,7 +133,7 @@ const BlogDetails3 = () => {
                       and nutty taste. Experiment with cumin in both sweet and
                       savoury dishes to experience its full range of culinary
                       possibilities. Cumin is more than just a flavorful spice –
-                      it's a nutritional powerhouse with a wide range of health
+                      its a nutritional powerhouse with a wide range of health
                       properties. From aiding digestion and reducing
                       inflammation to supporting blood sugar control and weight
                       management cumin offers numerous benefits for overall

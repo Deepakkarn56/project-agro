@@ -27,12 +27,12 @@ const About = () => {
                     <div className="post-meta post-metas">About Us</div>
 
                     <p>
-                      Introducing Eros Agro: Your Gateway to Exceptional Spice
+                      Introducing Eros Agro Your Gateway to Exceptional Spice
                       Experiences! Embark on a culinary journey like no other
                       with Eros Agro where every spice tells a story of
                       flavour tradition and excellence. With a heartfelt
                       passion for spices we curate a selection of the finest
-                      offerings from around the globe, delivering an
+                      offerings from around the globe delivering an
                       unparalleled sensory experience to your kitchen.
                     </p>
 
@@ -57,7 +57,7 @@ const About = () => {
 
                     <p>
                       Our range of products is as diverse as the cuisines they
-                      enhance. Whether you're a fan of bold fiery spices or
+                      enhance. Whether you are a fan of bold fiery spices or
                       prefer the delicate balance of aromatic blends we have
                       something for every palate. Explore our collection of
                       whole spices ground powders and signature blends each
