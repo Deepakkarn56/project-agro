@@ -41,7 +41,7 @@ const BlogDetails1 = () => {
                         {/* <li>
                           <span>
                             <i className="ti-calendar" />
-                            <a href="#">22 Nov, 2022</a>
+                            <a href="#">22 Nov 2022</a>
                           </span>
                         </li> */}
                       </ul>
@@ -50,8 +50,8 @@ const BlogDetails1 = () => {
                     <p>
                       Spice blending is a centuries-old culinary tradition that
                       adds depth complexity and character to dishes from around
-                      the world. At Eros Agro, we take pride in our expertise in
-                      the art of spice blending, carefully crafting unique
+                      the world. At Eros Agro we take pride in our expertise in
+                      the art of spice blending carefully crafting unique
                       blends that elevate the flavours of any dish. Join us as
                       we delve into the secrets of spice blending and share some
                       tips and tricks from our team of experts.
@@ -59,7 +59,7 @@ const BlogDetails1 = () => {
 
                     <h4>Understanding Flavour Profiles:</h4>
                     <p>
-                      Before diving into the world of spice blending, it's
+                      Before diving into the world of spice blending it's
                       essential to understand the concept of flavour profiles.
                       Each spice brings its unique flavour characteristics
                       ranging from warm and earthy to bright and citrusy. By
@@ -77,7 +77,7 @@ const BlogDetails1 = () => {
                       profile. Remember there are no strict rules when it comes
                       to spice blending – let your taste buds be your guide.
                     </p>
-                    <h4>Balancing Sweet, Sour, Salty, and Spicy:</h4>
+                    <h4>Balancing Sweet Sour Salty and Spicy:</h4>
                     <p>
                       A well-balanced spice blend should encompass a harmonious
                       balance of sweet sour salty and spicy flavours. Consider
@@ -89,11 +89,11 @@ const BlogDetails1 = () => {
                     </p>
                     <h4>Quality Matters:</h4>
                     <p>
-                      When it comes to spice blending, quality is paramount.
-                      Using high-quality, freshly ground spices will make a
+                      When it comes to spice blending quality is paramount.
+                      Using high-quality freshly ground spices will make a
                       world of difference in the flavour and aroma of your
-                      blends. At Eros Agro, we source only the finest spices
-                      from around the world, ensuring that each blend is of the
+                      blends. At Eros Agro we source only the finest spices
+                      from around the world ensuring that each blend is of the
                       highest quality and freshness.
                     </p>
                     <h4> Storage and Shelf Life:</h4>
@@ -110,7 +110,7 @@ const BlogDetails1 = () => {
                     <p>
                       Spice blending offers a wonderful opportunity to explore
                       different cultural cuisines and flavour profiles. Take
-                      inspiration from cuisines around the world – whether it's
+                      inspiration from cuisines around the world – whether its
                       the warm and aromatic spices of Indian cuisine or the
                       herbaceous blends of Mediterranean cooking. Incorporating
                       cultural influences into your spice blends adds depth and
@@ -118,24 +118,23 @@ const BlogDetails1 = () => {
                     </p>
                     <h4> The Importance of Balance:</h4>
                     <p>
-                      Above all, remember that balance is key when it comes to
+                      Above all remember that balance is key when it comes to
                       spice blending. Avoid overpowering your dishes with too
-                      many strong flavours or spices. Instead, aim for a
+                      many strong flavours or spices. Instead aim for a
                       delicate balance that enhances the natural flavours of
                       your ingredients without overwhelming them. Start with a
                       light hand and gradually add more spices until you achieve
                       the desired flavour profile. Spice blending is both an art
-                      and a science, requiring patience, experimentation, and a
-                      keen palate. By understanding flavour profiles,
-                      experimenting with different combinations, and
-                      prioritising quality, you can create spice blends that
-                      elevate your dishes to new heights. At Eros Agro, we are
+                      and a science requiring patience experimentation and a
+                      keen palate. By understanding flavour profiles
+                      experimenting with different combinations and
+                      prioritising quality you can create spice blends that
+                      elevate your dishes to new heights. At Eros Agro we are
                       passionate about sharing our expertise in spice blending
                       and helping you unlock the full potential of your culinary
-                      creations. So roll up your sleeves, gather your spices,
+                      creations. So roll up your sleeves gather your spices
                       and let the blending begin!
                     </p>
-                    
                   </div>
                 </div>
                 <div className="post-navigation">

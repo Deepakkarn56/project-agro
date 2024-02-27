@@ -49,21 +49,20 @@ const BlogDetails = () => {
                       A short presentation of coriander seeds
                     </h3>
                     <p>
-                      In the realm of culinary exploration, fresh herbs stand
-                      out as vibrant gems, not only for their aromatic flavours
-                      but also for their remarkable health benefits. At Eros
-                      Agro, we believe in harnessing the power of nature to
-                      enhance both the taste and nutritional value of our
-                      dishes. Join us on a journey through the enriching world
-                      of fresh herbs and discover how incorporating them into
-                      your cooking can elevate both your palate and your
-                      well-being.
+                      In the realm of culinary exploration fresh herbs stand out
+                      as vibrant gems not only for their aromatic flavours but
+                      also for their remarkable health benefits. At Eros Agro,
+                      we believe in harnessing the power of nature to enhance
+                      both the taste and nutritional value of our dishes. Join
+                      us on a journey through the enriching world of fresh herbs
+                      and discover how incorporating them into your cooking can
+                      elevate both your palate and your well-being.
                     </p>
                     <h3 className="title">The Nutritional Powerhouses</h3>
                     <p>
-                      Fresh herbs are not just culinary delights; they are also
-                      nutritional powerhouses packed with vitamins minerals
-                      and antioxidants essential for overall health. Each herb
+                      Fresh herbs are not just culinary delights they are also
+                      nutritional powerhouses packed with vitamins minerals and
+                      antioxidants essential for overall health. Each herb
                       brings its unique set of nutrients to the table making
                       them invaluable additions to any diet. Basil for example
                       is rich in vitamin K which plays a crucial role in bone
@@ -76,26 +75,68 @@ const BlogDetails = () => {
                     </p>
                     <h3>A Boost for Your Immune System:</h3>
                     <p>
-                    In today's fast-paced world, maintaining a strong immune system is more important than ever. Fortunately fresh herbs can lend a helping hand in bolstering your body's defences. Many herbs such as thyme and oregano possess antimicrobial properties that help fight off harmful bacteria and viruses. Garlic another potent herb is renowned for its immune-boosting abilities thanks to its allicin content. By infusing your dishes with these immune-supporting herbs you can give your body an extra layer of protection against illness.
+                      In today's fast-paced world maintaining a strong immune
+                      system is more important than ever. Fortunately fresh
+                      herbs can lend a helping hand in bolstering your bodys
+                      defences. Many herbs such as thyme and oregano possess
+                      antimicrobial properties that help fight off harmful
+                      bacteria and viruses. Garlic another potent herb is
+                      renowned for its immune-boosting abilities thanks to its
+                      allicin content. By infusing your dishes with these
+                      immune-supporting herbs you can give your body an extra
+                      layer of protection against illness.
                     </p>
                     <h3>Digestive Support:</h3>
                     <p>
-                    Good digestion is the cornerstone of overall health and fresh herbs can play a valuable role in supporting digestive function. Mint, for instance has long been used to alleviate indigestion and soothe upset stomachs. Similarly ginger is revered for its ability to ease nausea and aid in digestion by stimulating digestive enzymes. Incorporating these herbs into your meals not only adds a burst of flavour but also promotes optimal digestive health.
+                      Good digestion is the cornerstone of overall health and
+                      fresh herbs can play a valuable role in supporting
+                      digestive function. Mint for instance has long been used
+                      to alleviate indigestion and soothe upset stomachs.
+                      Similarly ginger is revered for its ability to ease nausea
+                      and aid in digestion by stimulating digestive enzymes.
+                      Incorporating these herbs into your meals not only adds a
+                      burst of flavour but also promotes optimal digestive
+                      health.
                     </p>
                     <h3>Heart-Healthy Herbs:</h3>
                     <p>
-                    Heart disease remains one of the leading causes of death worldwide making cardiovascular health a top priority for many. Fresh herbs like rosemary and thyme offer cardiovascular benefits thanks to their high antioxidant content. These antioxidants help reduce inflammation and oxidative stress two key factors contributing to heart disease. Additionally studies suggest that herbs like cilantro and parsley may help lower cholesterol levels further supporting heart health.
+                      Heart disease remains one of the leading causes of death
+                      worldwide making cardiovascular health a top priority for
+                      many. Fresh herbs like rosemary and thyme offer
+                      cardiovascular benefits thanks to their high antioxidant
+                      content. These antioxidants help reduce inflammation and
+                      oxidative stress two key factors contributing to heart
+                      disease. Additionally studies suggest that herbs like
+                      cilantro and parsley may help lower cholesterol levels
+                      further supporting heart health.
                     </p>
                     <h3>Mood-Boosting Properties:</h3>
                     <p>
-                    In addition to their physical health benefits fresh herbs can also have a positive impact on mental well-being. Certain herbs such as lavender and lemon balm have calming properties that can help reduce stress and anxiety. Others like basil and sage, are believed to enhance cognitive function and improve mood. By incorporating these herbs into your cooking you can create meals that nourish both body and mind leaving you feeling refreshed and rejuvenated
+                      In addition to their physical health benefits fresh herbs
+                      can also have a positive impact on mental well-being.
+                      Certain herbs such as lavender and lemon balm have calming
+                      properties that can help reduce stress and anxiety. Others
+                      like basil and sage are believed to enhance cognitive
+                      function and improve mood. By incorporating these herbs
+                      into your cooking you can create meals that nourish both
+                      body and mind leaving you feeling refreshed and
+                      rejuvenated
                     </p>
                     <h3>Conclusion:</h3>
                     <p>
-                    As we've explored, the benefits of cooking with fresh herbs extend far beyond flavour enhancement. From bolstering your immune system to supporting heart health and promoting mental well-being, these culinary treasures offer a myriad of health benefits that should not be overlooked. At Eros Agro, we are passionate about sharing the wonders of fresh herbs with our customers, and we encourage you to embark on your own culinary journey with these nutritional powerhouses. So next time you're in the kitchen, don't hesitate to reach for a handful of fresh herbs – your taste buds and your body will thank you for it.
+                      As we have explored the benefits of cooking with fresh herbs
+                      extend far beyond flavour enhancement. From bolstering
+                      your immune system to supporting heart health and
+                      promoting mental well-being these culinary treasures offer
+                      a myriad of health benefits that should not be overlooked.
+                      At Eros Agro we are passionate about sharing the wonders
+                      of fresh herbs with our customers and we encourage you to
+                      embark on your own culinary journey with these nutritional
+                      powerhouses. So next time you're in the kitchen dont
+                      hesitate to reach for a handful of fresh herbs – your
+                      taste buds and your body will thank you for it.
                     </p>
-                  
-                                     </div>
+                  </div>
                 </div>
                 <div className="post-navigation">
                   <div className="row">

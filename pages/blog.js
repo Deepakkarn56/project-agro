@@ -66,20 +66,20 @@ const Blog = () => {
                     </div> */}
                     <h3 className="title">
                       <Link href="/blog-details">
-                        <a>The Health Benefits of Cooking with Fresh Herbs: A Guide from Eros Agro</a>
+                        <a>
+                          The Health Benefits of Cooking with Fresh Herbs: A
+                          Guide from Eros Agro
+                        </a>
                       </Link>
                     </h3>
                     <p>
-                    In the realm of culinary exploration, fresh herbs stand out as vibrant gems, not only for their aromatic flavours but also for their remarkable health benefits....
+                      In the realm of culinary exploration fresh herbs stand
+                      out as vibrant gems not only for their aromatic flavours
+                      but also for their remarkable health benefits....
                     </p>
-                    <Link  href="/blog-details">
-                      <a className="btn-link">
-                      Continue Reading
-                      </a>
-                   
+                    <Link href="/blog-details">
+                      <a className="btn-link">Continue Reading</a>
                     </Link>
-                    
-                    
                   </div>
                 </div>
                 <div className="blog-post-item blog-post-item-four mb-50 wow fadeInUp">
@@ -123,18 +123,20 @@ const Blog = () => {
                     </div> */}
                     <h3 className="title">
                       <Link href="/blog-details1">
-                        <a>The Art of Spice Blending: Tips and Tricks from Eros Agro's Experts</a>
+                        <a>
+                          The Art of Spice Blending: Tips and Tricks from Eros
+                          Agros Experts
+                        </a>
                       </Link>
                     </h3>
                     <p>
-                    Spice blending is a centuries-old culinary tradition that adds depth, complexity, and character to dishes from around the world.....
+                      Spice blending is a centuries-old culinary tradition that
+                      adds depth complexity and character to dishes from
+                      around the world.....
                     </p>
-                    <Link href= "/blog-details1">
-                    <a  className="btn-link">
-                      Continue Reading
-                    </a>
+                    <Link href="/blog-details1">
+                      <a className="btn-link">Continue Reading</a>
                     </Link>
-                   
                   </div>
                 </div>
                 {/* new */}
@@ -179,18 +181,19 @@ const Blog = () => {
                     </div>
                     <h3 className="title">
                       <Link href="/blog-details3">
-                        <a>Unlocking the Power of Cumin: Culinary Uses and Health Properties</a>
+                        <a>
+                          Unlocking the Power of Cumin: Culinary Uses and Health
+                          Properties
+                        </a>
                       </Link>
                     </h3>
                     <p>
-                    Cumin with its warm and earthy flavour has been a staple spice in kitchens around the world for centuries. 
+                      Cumin with its warm and earthy flavour has been a staple
+                      spice in kitchens around the world for centuries.
                     </p>
-                    <Link href= "blog-details3">
-                    <a className="btn-link">
-                      Continue Reading
-                    </a>
+                    <Link href="blog-details3">
+                      <a className="btn-link">Continue Reading</a>
                     </Link>
-                   
                   </div>
                 </div>
 
@@ -237,8 +240,6 @@ const Blog = () => {
                     </li>
                   </ul>
                 </div>
-
-              
               </div>
             </div>
           </div>

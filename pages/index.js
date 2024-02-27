@@ -34,13 +34,13 @@ const Index = () => {
                   <h3 className="wow fadeInDown">
                     with Eros Agro - Where Quality Spices Meet
                     <h4>
-                      Global Excellence!"  below the welcome to  eros agro!.
+                      Global Excellence!  below the welcome to  eros agro!.
                     </h4>
                   </h3>
 
                   <p className="tags">
                     <span>Popular Categories:</span>
-                    <a href="#">Spices</a>,<a href="#">Herbs</a>,
+                    <a href="#">Spices</a><a href="#">Herbs</a>
                     <a href="#">SuperFoods</a>
                   </p>
                 </div>
@@ -62,14 +62,14 @@ const Index = () => {
             As a premier spice export company, we are dedicated to providing you
             with the finest quality spices sourced from around the globe. Our
             extensive network of trusted manufacturers ensures that we bring you
-            spices renowned for their rich flavours, exceptional aroma, and
+            spices renowned for their rich flavours exceptional aroma and
             superior quality.
           </p>
           <p>
             At Eros Agro, excellence is our commitment at every step of the
             process. From meticulous selection and processing to stringent
-            quality control measures, we strive for perfection in every batch we
-            deliver. Whether you're a wholesaler, distributor, or retailer, our
+            quality control measures we strive for perfection in every batch we
+            deliver. Whether you're a wholesaler distributor or retailer our
             diverse range of spices is sure to tantalise taste buds and elevate
             culinary experiences to new heights.
           </p>
@@ -112,12 +112,12 @@ const Index = () => {
                     </Link>
                   </h3>
                   <span className="price">
-                    Explore a world of culinary delight with Eros Agro's premium
+                    Explore a world of culinary delight with Eros Agros premium
                     spices. From the rich aroma of whole cloves to the fiery
-                    kick of ground chili, our carefully curated selection
+                    kick of ground chili our carefully curated selection
                     guarantees to enhance every dish with exceptional flavor and
                     quality. Elevate your cooking experience with Eros Agro
-                    spices, sourced from the finest growers around the globe.
+                    spices sourced from the finest growers around the globe.
                   </span>
                 </div>
               </div>
@@ -144,12 +144,12 @@ const Index = () => {
                     </Link>
                   </h3>
                   <span className="price">
-                    Embrace the essence of nature's green treasures with Eros
+                    Embrace the essence of natures green treasures with Eros
                     Agro's diverse assortment of herbs. From the soothing
-                    properties of chamomile to the aromatic allure of basil, our
+                    properties of chamomile to the aromatic allure of basil our
                     collection promises to infuse your culinary creations and
                     wellness rituals with freshness and flavor. Explore the
-                    world of herbs with Eros Agro, where each leaf tells a story
+                    world of herbs with Eros Agro where each leaf tells a story
                     of pure botanical bliss.
                   </span>
                 </div>
@@ -177,9 +177,9 @@ const Index = () => {
                     </Link>
                   </h3>
                   <span className="price">
-                    Revitalize your body and mind with Eros Agro's premium
+                    Revitalize your body and mind with Eros Agros premium
                     selection of superfoods. From the antioxidant-rich goodness
-                    of acai berries to the energy-boosting power of maca powder,
+                    of acai berries to the energy-boosting power of maca powder
                     our range offers an array of nutrient-packed options to fuel
                     your wellness journey. Experience the transformative
                     benefits of superfoods with Eros Agro, sourced with care and
