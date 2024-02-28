@@ -88,7 +88,7 @@ const Spices = () => {
               >
                 <div className="listing-thumbnail">
                   <Image
-                    src="/assets/images/spices/oil_seeds.png"
+                    src="/assets/images/spices/oilseeds.png"
                     alt="Listing Image"
                     width={800}
                     height={700}

@@ -16,7 +16,7 @@ const NaturalSesameSeeds = () => {
           <div className="main-contents">
             <div className="post-thumbnail">
               <Image
-                src="/assets/images/spices/NaturalSesameSeeds.png"
+                src="/assets/images/spices/seemseedss.jpg"
                 alt="Natural Sesame Seeds"
                 width={450}
                 height={250}
