@@ -2993,9 +2993,9 @@ h3.title {
 }
 
 /* index styling */
-.intros{
-  max-width: 700px;
-  margin: 0 auto;
+.intros {
+  max-width: 1200px;
+  margin: 0 auto; /* Centers the container horizontally */
   padding: 15px;
   background-color: #f9f9f9;
   border-radius: 8px;
@@ -3014,11 +3014,20 @@ h3.title {
 
 .contents {
   line-height: 1.6;
+  margin-left: 10px; /* Adjust as needed */
+  margin-right: 10px; /* Adjust as needed */
 }
 
 .contents p {
   margin-bottom: 5px;
 }
+/* card css */
+.grey-backgrounds {
+  background-color: #ccc; 
+  padding: 15px; 
+  border-radius: 8px; 
+}
+
 
 
 /* start */

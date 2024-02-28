@@ -32,17 +32,17 @@ const Index = () => {
                     Experience the Worlds Flavors
                   </h3>
                   <h3 className="wow fadeInDown">
-                    with Eros Agro - Where Quality Spices Meet
+                    with Eros Agro - <br></br> Where Quality Spices Meet
                     <h4>
-                      Global Excellence!  below the welcome to  eros agro!.
+                      Global Excellence!  below the welcome to eros agro!.
                     </h4>
                   </h3>
 
-                  <p className="tags">
+                  {/* <p className="tags">
                     <span>Popular Categories:</span>
                     <a href="#">Spices</a><a href="#">Herbs</a>
                     <a href="#">SuperFoods</a>
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>
@@ -89,11 +89,11 @@ const Index = () => {
               </div>
             </div>
           </div>
-          <div className="row rowss">
+          <div className="row rowss  ">
             {/* Existing Card  1 */}
             <div className="col-lg-4 col-md-6 col-sm-12 sizess">
               <div
-                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items"
+                className="listing-item listing-grid-one mb-45 wow fadeInUp listing-items "
                 data-wow-delay="10ms"
               >
                 <div className="listing-thumbnail">
@@ -111,13 +111,16 @@ const Index = () => {
                       <a>Spices</a>
                     </Link>
                   </h3>
-                  <span className="price">
-                    Explore a world of culinary delight with Eros Agros premium
-                    spices. From the rich aroma of whole cloves to the fiery
-                    kick of ground chili our carefully curated selection
-                    guarantees to enhance every dish with exceptional flavor and
-                    quality. Elevate your cooking experience with Eros Agro
-                    spices sourced from the finest growers around the globe.
+                  <span className="price grey-backgrounds">
+                    <p>
+                      Explore a world of culinary delight with Eros Agros
+                      premium spices. From the rich aroma of whole cloves to the
+                      fiery kick of ground chili our carefully curated selection
+                      guarantees to enhance every dish with exceptional flavor
+                      and quality. Elevate your cooking experience with Eros
+                      Agro spices sourced from the finest growers around the
+                      globe.
+                    </p>
                   </span>
                 </div>
               </div>
@@ -143,7 +146,7 @@ const Index = () => {
                       <a>Herbs</a>
                     </Link>
                   </h3>
-                  <span className="price">
+                  <span className="price grey-backgrounds">
                     Embrace the essence of natures green treasures with Eros
                     Agros diverse assortment of herbs. From the soothing
                     properties of chamomile to the aromatic allure of basil our
@@ -176,7 +179,7 @@ const Index = () => {
                       <a>SuperFoods</a>
                     </Link>
                   </h3>
-                  <span className="price">
+                  <span className="price grey-backgrounds ">
                     Revitalize your body and mind with Eros Agros premium
                     selection of superfoods. From the antioxidant-rich goodness
                     of acai berries to the energy-boosting power of maca powder
@@ -337,7 +340,7 @@ const Index = () => {
                     </Link>
                   </h3>
 
-                  <span className="price">
+                  <span className="price grey-backgrounds">
                     Eros Agro offers an exquisite array of Whole Spices
                     meticulously sourced and selected for their superior quality
                     and intense flavour profiles. From the rich warmth of whole
@@ -376,7 +379,7 @@ const Index = () => {
                     </Link>
                   </h3>
 
-                  <span className="price">
+                  <span className="price grey-backgrounds">
                     Eros Agro presents a premium selection of Oil Seeds sourced
                     from the finest regions to bring exceptional quality to your
                     table. Our meticulously chosen seeds offer a wealth of
@@ -414,7 +417,7 @@ const Index = () => {
                     </Link>
                   </h3>
 
-                  <span className="price">
+                  <span className="price grey-backgrounds">
                     Eros Agro presents an exquisite range of Blended Spices
                     expertly crafted to add depth and complexity to your
                     culinary creations. Our blends combine premium ingredients
@@ -622,7 +625,7 @@ const Index = () => {
                   <Link href="/blog-details">
                     <a>
                       <Image
-                        src="/assets/images/spices/top_12.jpg"
+                        src="/assets/images/spices/freshhubs.jpg"
                         alt="Blog Image"
                         width={800}
                         height={700}
@@ -641,7 +644,11 @@ const Index = () => {
                   </a>
                   <h3 className="title">
                     <Link href="/blog-details">
-                      <a>Top 12 Coriander Seeds Benefits</a>
+                      <a>
+                        {" "}
+                        The Health Benefits of Cooking with Fresh Herbs: A Guide
+                        from Eros Agro
+                      </a>
                     </Link>
                   </h3>
                   <div className="post-meta">
@@ -650,8 +657,60 @@ const Index = () => {
                         <span>
                           <i className="ti-agenda"></i>
                           <a href="#">
-                            Top 12 Coriander Seeds Benefits A short presentation
-                            …
+                            In the realm of culinary exploration fresh herbs
+                            stand out as vibrant gems not only for their
+                            aromatic flavours but also for their remarkable
+                            health benefits.... …
+                          </a>
+                        </span>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {/* second Blog*/}
+            <div className="col-lg-4 col-md-6 col-sm-12">
+              <div
+                className="blog-post-item blog-post-item-one mb-40 wow fadeInUp"
+                data-wow-delay="10ms"
+              >
+                <div className="post-thumbnail">
+                  <Link href="/blog-details">
+                    <a>
+                      <Image
+                        src="/assets/images/spices/corniderss.jpg"
+                        alt="Blog Image"
+                        width={800}
+                        height={700}
+                      />
+                    </a>
+                  </Link>
+                  <div className="post-date">
+                    <a href="#">
+                      22 <span>Nov</span>
+                    </a>
+                  </div>
+                </div>
+                <div className="entry-content">
+                  <a href="#" className="cat-btn">
+                    <i className="ti-user"></i>Eros_Spices
+                  </a>
+                  <h3 className="title">
+                    <Link href="/blog-details3">
+                      <a>
+                        {" "}
+                        Unlocking the Power of Cumin: Culinary Uses and Health Properties
+                      </a>
+                    </Link>
+                  </h3>
+                  <div className="post-meta">
+                    <ul>
+                      <li>
+                        <span>
+                          <i className="ti-agenda"></i>
+                          <a href="#">
+                          Cumin with its warm and earthy flavour has been a staple spice in kitchens around the world for centuries. Beyond its culinary appeal cumin is also celebrated.....
                           </a>
                         </span>
                       </li>
@@ -669,7 +728,7 @@ const Index = () => {
                   <Link href="/blog-details1">
                     <a>
                       <Image
-                        src="/assets/images/spices/black_pepper_powder.jpg"
+                        src="/assets/images/spices/spiceblendings.jpg"
                         alt="Blog Image"
                         width={800}
                         height={700}
@@ -688,7 +747,10 @@ const Index = () => {
                   </a>
                   <h3 className="title">
                     <Link href="/blog-details1">
-                      <a>The Black Pepper Benefits: A Healthier You!</a>
+                      <a>
+                        The Art of Spice Blending: Tips and Tricks from Eros
+                        Agros Experts
+                      </a>
                     </Link>
                   </h3>
                   <div className="post-meta">
@@ -697,16 +759,21 @@ const Index = () => {
                         <span>
                           <i className="ti-agenda"></i>
                           <a href="#">
-                            Dark pepper which is likewise viewed as the …
+                            Spice blending is a centuries-old culinary tradition
+                            that adds depth complexity and character to dishes
+                            from around the world At Eros Agro we take pride in
+                            our expertise in....
                           </a>
                         </span>
                       </li>
                     </ul>
                   </div>
                 </div>
+                {/* third */}
               </div>
             </div>
           </div>
+
           <div className="row">
             <div className="col-lg-12">
               <div className="button text-center mt-40">
